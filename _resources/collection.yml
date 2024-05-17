@@ -2,4 +2,5 @@ collections:
   resources:
     output: true
     order:
+      - privacy.md
       - terms-of-use.md
