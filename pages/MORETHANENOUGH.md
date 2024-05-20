@@ -22,20 +22,7 @@ not forget&nbsp;that we, too, deserve to thrive as individuals.
 <br>Because if there’s one thing we should know, it’s that, we’re <strong>#MoreThanEnough</strong>
 </p>
 <p></p>
-<div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Father, Mother and Son photo" src="/images/quote_img_1__2_.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">“We consciously carve out time for ourselves and our hobbies to maintain
-a sense of identity outside of being a parent. It’s key to maintaining
-a healthy and fulfilling family dynamic.”</div>
-<div class="isomer-card-description">Carol (Civil Servant and a mother of a young son)</div>
-</div>
-</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="www.google.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Father, Mother and Son photo" src="/images/quote_img_1__2_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">“We consciously carve out time for ourselves and our hobbies to maintain a sense of identity outside of being a parent. It’s key to maintaining a healthy and fulfilling family dynamic.”</div><div class="isomer-card-description">Carol (Civil Servant and a mother of a young son)</div><div class="isomer-card-link">Test Hyperlink</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -62,6 +49,8 @@ most satisfying parts of being a parent.”</div>
 </div>
 </div>
 <p></p>
+<p><strong>FAQs</strong>
+</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>1. How do I apply for preschool subsidies?</summary>
