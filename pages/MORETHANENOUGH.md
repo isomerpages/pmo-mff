@@ -62,4 +62,21 @@ most satisfying parts of being a parent.”</div>
 </div>
 </div>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>1. How do I apply for preschool subsidies?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>All applications for the Basic and Additional Subsidy (for childcare and
+infant care) and KiFAS (for kindergarten) should be made through your preschool
+centre. The centre will provide you with the application form.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>2. How will I receive the subsidies?</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The subsidies will be disbursed directly to your preschool centre. You
+will just need to pay the net fees after subsidy.</p>
+</div>
+</details>
+</div>
 <p></p>
