@@ -131,18 +131,18 @@ and parenthood.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="50%" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PCTKytjRcKs?si=IGN8rVWHgsG93DJL"></iframe>
+<iframe height="225" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PCTKytjRcKs?si=IGN8rVWHgsG93DJL"></iframe>
 </div>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_0rL6iWv33w?si=rzJ6kG5Op64wW539"></iframe>
+<iframe height="225" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_0rL6iWv33w?si=rzJ6kG5Op64wW539"></iframe>
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_AtL3NItmK4?si=J4xeQCbRdmu7n7RU"></iframe>
+<iframe height="225" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_AtL3NItmK4?si=J4xeQCbRdmu7n7RU"></iframe>
 </div>
 </th>
 </tr>
