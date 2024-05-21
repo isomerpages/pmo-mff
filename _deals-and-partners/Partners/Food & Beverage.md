@@ -121,6 +121,20 @@ and fuss-free delivery services for all your pasta and pizza cravings.</div>
 Families have been seen to bring their food from Picotin to the sea shore
 to spend their family time.</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.picotin.sg/picotin-fairways" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Picotin Fairways" src="/images/Picotin_Fairways.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> Picotin Fairways</div><div class="isomer-card-description">Picotin Fairways is a kid-focus restaurant with kid's menu and a play area where kids can play, paint, colour and draw. Picotin Fairways also has a kid's golf range for some family time.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div><a rel="noopener noreferrer nofollow" href="https://www.picotin.sg/picotin-fairways" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Picotin Fairways" src="/images/Picotin_Fairways.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Picotin Fairways</div><div class="isomer-card-description">Picotin Fairways is a kid-focus restaurant with kid's menu and a play area where kids can play, paint, colour and draw. Picotin Fairways also has a kid's golf range for some family time.</div><div class="isomer-card-link">Website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.picotin.sg/picotin-katong" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Picotin Katong" src="/images/Picotin_Katong.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Picotin Katong</div>
+<div class="isomer-card-description">Picotin Katong welcomes and caters to families and children with their
+kid's menu and colouring placemat and crayons to keep kids occupied at
+the table before food is served.</div>
+<div class="isomer-card-link">Website</div>
+</div>
+</a>
 </div>
 <p></p>
