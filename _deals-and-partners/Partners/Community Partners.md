@@ -10,35 +10,48 @@ third_nav_title: Partners
 <h3><strong>Community Partners</strong></h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://fathers.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Centre for Fathering" src="/images/Centre_for_Fathering.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Centre for Fathering</div><div class="isomer-card-description">Centre for Fathering (CFF) is a non-profit organisation founded in 2000 to promote active and involved fathering and address issues caused by fatherlessness in Singapore. The organisation aims to empower more fathers to be better role models and an inspiration to their children.</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.drivelah.sg/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="http://www.gomama.com.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Drive lah" src="/images/Drive_lah.png">
+<img style="width: 100%" height="auto" width="100%" alt="GO!Mama" src="/images/GO_Mama.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Drive lah</div>
-<div class="isomer-card-description">Drive lah is very much for families - most people use it for family outings
-with kids, parents. And it is the only platform where Singaporean families
-rent out their car to other Singaporean families. Quite a number of cars
-offer free child seats as well.</div>
+<div class="isomer-card-title">GO!Mama</div>
+<div class="isomer-card-description">Go!Mama aims to improve environmental support for families with mothers
+who are breastfeeding. We offer smart tech, plug and play lactation pods
+that is free standing and can be easily implemented by facilities providers.</div>
 <div class="isomer-card-link">Website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.popularcar.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Popular Rent A Car" src="/images/Popular_Rent_A_Car.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Popular Rent A Car</div><div class="isomer-card-description">Popular Rent A Car is a car rental company that strongly believes in Family Bonding where we treat every employee as our own family members to care and love one another.</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.tribecar.com/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://ilovechildren.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="I Love Children" src="/images/I_Love_Children.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">I Love Children</div><div class="isomer-card-description">I Love Children (ILC) is a voluntary welfare organisation set up in September 2005 with the aspirations to keep Singapore young – by advocating a higher priority to having children and educating couples on fertility wellness.</div><div class="isomer-card-link">Website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://mitas.org.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Tribecar" src="/images/Tribecar.png">
+<img style="width: 100%" height="auto" width="100%" alt="MITAS" src="/images/MITAS.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Tribecar</div>
-<div class="isomer-card-description">Tribecar redefines the way Singapore commutes through enabling car sharing
-with the largest network of locations and vehicle types at competitive
-rates. With over 1,300+ vehicles in neighbourhoods around the island, our
-fleet of vehicles are conveniently parked in heartlands.</div>
+<div class="isomer-card-title">MITAS</div>
+<div class="isomer-card-description">The vision of MITAS is to promote the mother and baby products and services
+industry in Singapore. MITAS is dedicated to serving and supporting all
+businesses involved in creating and delivering mother and baby products
+and services.</div>
 <div class="isomer-card-link">Website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.whizzcar.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="WhizzCar" src="/images/WhizzCar.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">WhizzCar</div><div class="isomer-card-description">WhizzCar is a car rental company that strongly believes in Family Bonding where we treat every employee as our own family members to care and love one another.</div><div class="isomer-card-link">Website</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://suncaresg.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Suncare SG" src="/images/Suncare_SG.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Suncare SG</div><div class="isomer-card-description">Suncare SG is a charity focused on supporting the well-being of children and youths. We aim to equip our children and youths with Confidence, Awareness, Resilience, Empowerment (C.A.R.E) so they can develop into happy and well-rounded individuals, empowered to achieve their full potential. </div><div class="isomer-card-link">Website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.touch.org.sg/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="TOUCH Community Services" src="/images/TOUCH_Community_Services.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">TOUCH Community Services</div>
+<div class="isomer-card-description">TOUCH Community Services believes in the worth and potential of every
+child, youth at-risk, family in need, senior and person with special or
+healthcare needs to grow, participate and contribute in the community.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
 </div>
 <p></p>
