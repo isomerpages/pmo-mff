@@ -38,7 +38,7 @@ businesses involved in creating and delivering mother and baby products
 and services.</div>
 <div class="isomer-card-link">Website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://suncaresg.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Suncare SG" src="/images/Suncare_SG.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Suncare SG</div><div class="isomer-card-description">Suncare SG is a charity focused on supporting the well-being of children and youths. We aim to equip our children and youths with Confidence, Awareness, Resilience, Empowerment (C.A.R.E) so they can develop into happy and well-rounded individuals, empowered to achieve their full potential. </div><div class="isomer-card-link">Website</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://suncaresg.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Suncare SG" src="/images/Suncare_SG.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Suncare SG</div><div class="isomer-card-description">Suncare SG is a charity focused on supporting the well-being of children and youths. We aim to equip our children and youths with Confidence, Awareness, Resilience, Empowerment (C.A.R.E) so they can develop into happy and well-rounded individuals, empowered to achieve their full potential.</div><div class="isomer-card-link">Website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.touch.org.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -50,7 +50,7 @@ and services.</div>
 <div class="isomer-card-description">TOUCH Community Services believes in the worth and potential of every
 child, youth at-risk, family in need, senior and person with special or
 healthcare needs to grow, participate and contribute in the community.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Website</div>
 </div>
 </a>
 </div>
