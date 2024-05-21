@@ -93,6 +93,21 @@ F&amp;B businesses to grow and manage their brands through an all-in-one
 integrated solution that is cost-effective.</div>
 <div class="isomer-card-link">Website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.oriole.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Oriole Coffee + Bar" src="/images/Oriole_Coffee.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Oriole Coffee + Bar</div><div class="isomer-card-description">Oriole Coffee + Bar was built on three pillars - Coffee, Food and Community. Diners can expect savoury café classics and hearty global fare throughout the day, starting with delectable selections at breakfast, with all-time favourite pastas and burgers for lunch and dinner. </div><div class="isomer-card-link">Website</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.oriole.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Oriole Coffee + Bar" src="/images/Oriole_Coffee.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Oriole Coffee + Bar</div><div class="isomer-card-description">Oriole Coffee + Bar was built on three pillars - Coffee, Food and Community. Diners can expect savoury café classics and hearty global fare throughout the day, starting with delectable selections at breakfast, with all-time favourite pastas and burgers for lunch and dinner.</div><div class="isomer-card-link">Website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.pastamania.com.sg/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Pastamania" src="/images/Pastamania.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Pastamania</div>
+<div class="isomer-card-description">PastaMania is a home-grown Halal-certified Italian casual dining chain
+that has been around for 25 years, and is loved by young and old. With
+17 outlets islandwide, this familiar household brand offers dine-in, takeaway
+and fuss-free delivery services for all your pasta and pizza cravings.</div>
+<div class="isomer-card-link">Website</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://perch.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Perch" src="/images/Perch.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Perch</div><div class="isomer-card-description">Perch is an all-day, casual dining oasis – a sanctuary amidst the bustle – to unwind, indulge and be inspired with your family. The first integrative wine-and-dine bistro developed by Singapore’s leading wine &amp; spirits retailer.</div><div class="isomer-card-link">Website</div></div></a>
 </div>
 <p></p>
