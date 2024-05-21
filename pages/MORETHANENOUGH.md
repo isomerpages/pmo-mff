@@ -1,7 +1,7 @@
 ---
 title: MORETHANENOUGH
 permalink: /morethanenough/
-variant: markdown
+variant: tiptap
 description: MORETHANENOUGH
 ---
 <p></p>
@@ -133,7 +133,8 @@ and parenthood.</p>
 <div class="iframe-wrapper">
 <iframe height="225" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PCTKytjRcKs?si=IGN8rVWHgsG93DJL"></iframe>
 </div>
-<p></p>
+<p><strong>Our honeymoon hasn't ended<br></strong>A young couple takes a
+leap of faith to bring their relationship to the next stage.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
@@ -145,28 +146,6 @@ and parenthood.</p>
 <iframe height="225" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_AtL3NItmK4?si=J4xeQCbRdmu7n7RU"></iframe>
 </div>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
