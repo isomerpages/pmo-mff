@@ -2,8 +2,8 @@ collections:
   deals-and-partners:
     output: true
     order:
-      - Partners/Food & Beverage (S to Z).md
       - Partners/.keep
       - Partners/Car Sharing.md
       - Partners/Community Partners.md
       - Partners/Food & Beverage.md
+      - Partners/Food & Beverage (S to Z).md
