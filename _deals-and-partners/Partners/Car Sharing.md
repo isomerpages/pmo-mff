@@ -24,7 +24,7 @@ rent out their car to other Singaporean families. Quite a number of cars
 offer free child seats as well.</div>
 <div class="isomer-card-link">Website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.popularcar.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Popular Rent A Car" src="/images/Popular_Rent_A_Car.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Popular Rent A Car</div><div class="isomer-card-description">Popular Rent A Car is a car rental company that strongly believes in Family Bonding where we treat every employee as our own family members to care and love one another.</div><div class="isomer-card-link">Website</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.tribecar.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Tribecar" src="/images/Tribecar.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Tribecar</div><div class="isomer-card-description">Tribecar redefines the way Singapore commutes through enabling car sharing with the largest network of locations and vehicle types at competitive rates. With over 1,300+ vehicles in neighbourhoods around the island, our fleet of vehicles are conveniently parked in heartlands.</div><div class="isomer-card-link">Website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.facebook.com/AnakkuSG" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
