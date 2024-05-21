@@ -9,24 +9,24 @@ description: MORETHANENOUGH
 <img style="width: 100%" height="auto" width="100%" alt="Marriage and parenthood can be a journey of self-growth, for which you're #MoreThanEnough" src="/images/campaignhub_masthead_img_1_2560.jpg">
 </div>
 <p></p>
-<div style="display: grid;grid-template-columns: 40% 60%" class="row">
-<div class="col">
 <p></p>
 <p></p>
-<img style="width: 80%;" align="center" height="auto" width="100%" alt="Embrace The Journey" src="/images/manifesto_headerd7b51f4f7cb04f52bc63e378eaa7b4f0.png">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Embrace The Journey" src="/images/manifesto_headerd7b51f4f7cb04f52bc63e378eaa7b4f0.png">
 </div>
-<div class="col">
-Marriage and parenthood is a journey, not a destination.<br><br>
-Sure, there will be challenges along the way.&nbsp;But what matters is we allow ourselves the 
-time and space to learn and grow. <br><br>
-After all, no one path works for everyone, and we figure out what works
-best for us. <br>
+<p>Marriage and parenthood is a journey, not a destination.
+<br>
+<br>Sure, there will be challenges along the way.&nbsp;But what matters is
+we allow ourselves the time and space to learn and grow.
+<br>
+<br>After all, no one path works for everyone, and we figure out what works
+best for us.
+<br>
 <br>And while we will always strive to give our loved ones the best, let’s
-not forget&nbsp;that we, too, deserve to thrive as individuals. <br>
+not forget&nbsp;that we, too, deserve to thrive as individuals.
+<br>
 <br>Because if there’s one thing we should know, it’s that, we’re <strong>#MoreThanEnough</strong>
-
-</div>
-</div>
+</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="www.google.com" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Father, Mother and Son photo" src="/images/quote_img_1__2_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">“We consciously carve out time for ourselves and our hobbies to maintain a sense of identity outside of being a parent. It’s key to maintaining a healthy and fulfilling family dynamic.”</div><div class="isomer-card-description">Carol (Civil Servant and a mother of a young son)</div><div class="isomer-card-link">Test Hyperlink</div></div></a>
 <div class="isomer-card">
@@ -54,7 +54,7 @@ most satisfying parts of being a parent.”</div>
 </div>
 </div>
 </div>
-<p></p>
+<h3><strong>Read Our Stories</strong><br>Explore the joys and challenges of marriage and parenthood.</h3>
 <p><strong>FAQs</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
