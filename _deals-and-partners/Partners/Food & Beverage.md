@@ -37,18 +37,19 @@ serves as a refuge and aims to bring people together for a laid-back dining
 experience.</div>
 <div class="isomer-card-link">Website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.foodpanda.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="foodpanda" src="/images/foodpanda.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">foodpanda</div><div class="isomer-card-description">As the leading food delivery platform, foodpanda is dedicated to bringing customers a wide variety of food, groceries and more, quickly and conveniently. </div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.touch.org.sg/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.foodpanda.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="foodpanda" src="/images/foodpanda.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">foodpanda</div><div class="isomer-card-description">As the leading food delivery platform, foodpanda is dedicated to bringing customers a wide variety of food, groceries and more, quickly and conveniently.</div><div class="isomer-card-link">Website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="http://instagram.com/genzosg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="TOUCH Community Services" src="/images/TOUCH_Community_Services.png">
+<img style="width: 100%" height="auto" width="100%" alt="Genzo" src="/images/Genzo.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">TOUCH Community Services</div>
-<div class="isomer-card-description">TOUCH Community Services believes in the worth and potential of every
-child, youth at-risk, family in need, senior and person with special or
-healthcare needs to grow, participate and contribute in the community.</div>
+<div class="isomer-card-title">Genzo</div>
+<div class="isomer-card-description">Genzo げんぞう is a modern Japanese Omakase restaurant that strips away the
+traditions of Japanese cuisine. Creating unique and mouth-watering food
+is our happy place. We believe that everyone deserves to experience the
+soulful indulgence of a good meal.</div>
 <div class="isomer-card-link">Website</div>
 </div>
 </a>
