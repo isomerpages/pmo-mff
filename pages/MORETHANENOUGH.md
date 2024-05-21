@@ -121,7 +121,51 @@ next step.</div>
 <h3><strong>Watch Our Videos</strong></h3>
 <p>Follow these Singaporean couples as they navigate the journey of marriage
 and parenthood.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PCTKytjRcKs?si=IGN8rVWHgsG93DJL"></iframe>
+</div>
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>FAQs</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -142,11 +186,7 @@ will just need to pay the net fees after subsidy.</p>
 </details>
 </div>
 <p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PCTKytjRcKs?si=IGN8rVWHgsG93DJL"></iframe>
-</div>
-<p><strong>Our honeymoon hasn't ended</strong>
-</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
