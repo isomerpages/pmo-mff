@@ -54,7 +54,7 @@ most satisfying parts of being a parent.”</div>
 </div>
 </div>
 </div>
-<h3><strong>Read Our Stories</strong></h3><br>Explore the joys and challenges of marriage and parenthood
+<h3><strong>Read Our Stories</strong></h3>Explore the joys and challenges of marriage and parenthood
 <p><strong>FAQs</strong>
 </p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
