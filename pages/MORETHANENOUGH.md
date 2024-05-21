@@ -147,17 +147,17 @@ and parenthood.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Our honeymoon hasn't ended</strong>
+<p><strong>Our honeymoon hasn't ended</strong> 
 <br>A young couple takes a leap of faith to bring their relationship to the
 next stage.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Parenthood is a journey, not a destination</strong>
+<p><strong>Parenthood is a journey, not a destination</strong> 
 <br>Balancing work and family isn't easy. But this father performs the ultimate
 juggling act.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A happy parent makes a happy family</strong>
+<p><strong>A happy parent makes a happy family</strong> 
 <br>Many couples tend to neglect their passions after having a child. This
 mother refused to be part of the statistic.</p>
 </td>
