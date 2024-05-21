@@ -33,16 +33,19 @@ description: Partners
 </table>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://safe.menlosecurity.com/https://aavcsingapore.webs.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/001_AAVG.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AAVC - Animal &amp; Avian Veterinary Clinic</div><div class="isomer-card-description">The veterinary clinic has been in operation since 2008, treating all dogs, cats, hamster, guinea pigs, rabbits, birds (Avian), reptiles and tortoise/turtles.</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.sg-akc.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Absolute Kinetics Consultancy" src="/images/002_Absolute_Kinetics_Consultancy.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Absolute Kinetics Consultancy</div>
+<div class="isomer-card-description">Absolute Kinetics Consultancy (Singapore) Pte Ltd (AKC) is an Approved
+Risk Consultants &amp; Accredited Workplace Safety &amp; Health (WSH) Training
+Provider appointed by the Ministry of Manpower (MOM) and SkillsFuture Singapore
+(SSG) to provide a wide range of courses for various industries.</div>
+<div class="isomer-card-link">Website</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
