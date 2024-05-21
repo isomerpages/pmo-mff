@@ -52,6 +52,6 @@ is our happy place. We believe that everyone deserves to experience the
 soulful indulgence of a good meal.</div>
 <div class="isomer-card-link">Website</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.hanjip.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="HANJIP Korean Grill House" src="/images/HANJIP_Korean_Grill_House.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">HANJIP Korean Grill House</div><div class="isomer-card-description">HANJIP Korean Grill House, opened in 2020 at Clark Quay offers a conducive environment for families with young children. We have a daily kids menu available and kids enjoy to eat for free during Saturday and Sunday lunch. </div><div class="isomer-card-link">Website</div></div></a>
 </div>
 <p></p>
