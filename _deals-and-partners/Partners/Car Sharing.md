@@ -7,9 +7,9 @@ third_nav_title: Partners
 ---
 <h2><strong>Our Partners</strong></h2>
 <h4>To date, we have around 200 partners that have come onboard the Made For Families initiative. If your organisation has products, services or programmes that are catered for families, join the Made For Families ecosystem!</h4>
-<h3><strong>CATEGORY - Car Sharing</strong></h3>
+<h3><strong>Car Sharing</strong></h3>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://aavcsingapore.webs.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/001_AAVG.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AAVC - Animal &amp; Avian Veterinary Clinic</div><div class="isomer-card-description">The veterinary clinic has been in operation since 2008, treating all dogs, cats, hamster, guinea pigs, rabbits, birds (Avian), reptiles and tortoise/turtles.</div><div class="isomer-card-link">Website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.carclub.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Car Club" src="/images/Car_Club.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Car Club</div><div class="isomer-card-description">Car Club – Singapore’s First and Original Car-Sharing provider has always been supporting and serving the transport needs of families!</div><div class="isomer-card-link">Website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.sg-akc.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -38,20 +38,5 @@ and marketing a wide range of basic baby apparel and personal care products.</di
 <div class="isomer-card-link">Website</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://artshouselimited.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Art House Limited" src="/images/005_Art_House_Limited.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Art House Limited</div><div class="isomer-card-description">The Arts House, a multidisciplinary arts centre with a focus on literary programming; and the Victoria Theatre &amp; Victoria Concert Hall, a heritage building that is home to the Singapore Symphony Orchestra.</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://artispique.com/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Artispique | Preserve Kids Artwork" src="/images/006_Artispique.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Artispique | Preserve Kids Artwork</div>
-<div class="isomer-card-description">We are the first in Singapore to embark on this digitisation project to
-help create a compilation of artwork which you and your child can fondly
-look back on even in the many years to come. We will journey with you alongside
-Made For Families, feeling guilt free while we do the rest.</div>
-<div class="isomer-card-link">Website</div>
-</div>
-</a>
 </div>
 <p></p>
