@@ -2,6 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     url: /about-us
+  - title: Play A Part
+    collection: play-a-part
   - title: Deals & Partners
     collection: deals-and-partners
   - title: Resources
