@@ -2,4 +2,5 @@ collections:
   deals-and-partners:
     output: true
     order:
+      - All Partners.md
       - Partners.md
