@@ -1,4 +1,6 @@
 collections:
   play-a-part:
     output: true
-    order: []
+    order:
+      - "Emerging Stronger Conversations: Building a Singapore that is Made For
+        Families.md"
