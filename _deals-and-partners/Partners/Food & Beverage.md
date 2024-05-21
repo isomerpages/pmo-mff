@@ -9,17 +9,17 @@ third_nav_title: Partners
 <h4>To date, we have around 200 partners that have come onboard the Made For Families initiative. If your organisation has products, services or programmes that are catered for families, join the Made For Families ecosystem!</h4>
 <h3><strong>Food &amp; Beverage</strong></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.beesknees.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bee's Knees" src="/images/Bee_s_Knees.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bee's Knees</div><div class="isomer-card-description">Bee’s Knees is a fun, laid-back cafe &amp; bistro concept that draws inspiration from the highly social, evolved behaviour of bees.</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="http://www.gomama.com.sg/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://brewerkz.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="GO!Mama" src="/images/GO_Mama.png">
+<img style="width: 100%" height="auto" width="100%" alt="Brewerkz" src="/images/Brewerkz.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">GO!Mama</div>
-<div class="isomer-card-description">Go!Mama aims to improve environmental support for families with mothers
-who are breastfeeding. We offer smart tech, plug and play lactation pods
-that is free standing and can be easily implemented by facilities providers.</div>
+<div class="isomer-card-title">Brewerkz</div>
+<div class="isomer-card-description">Brewerkz helped kickstart Singapore's craft beer story in 1997. We are
+a multi-award-winning business and Singapore’s longest running craft brewery
+experience.</div>
 <div class="isomer-card-link">Website</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://ilovechildren.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="I Love Children" src="/images/I_Love_Children.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">I Love Children</div><div class="isomer-card-description">I Love Children (ILC) is a voluntary welfare organisation set up in September 2005 with the aspirations to keep Singapore young – by advocating a higher priority to having children and educating couples on fertility wellness.</div><div class="isomer-card-link">Website</div></div></a>
