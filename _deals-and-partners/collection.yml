@@ -1,0 +1,4 @@
+collections:
+  deals-and-partners:
+    output: true
+    order: []
