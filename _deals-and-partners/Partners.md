@@ -60,6 +60,6 @@ Provider appointed by the Ministry of Manpower (MOM) and SkillsFuture Singapore
 and marketing a wide range of basic baby apparel and personal care products.</div>
 <div class="isomer-card-link">Website</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://artshouselimited.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Art House Limited" src="/images/005_Art_House_Limited.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Art House Limited</div><div class="isomer-card-description">The Arts House, a multidisciplinary arts centre with a focus on literary programming; and the Victoria Theatre &amp; Victoria Concert Hall, a heritage building that is home to the Singapore Symphony Orchestra.</div><div class="isomer-card-link">Website</div></div></a>
 </div>
 <p></p>
