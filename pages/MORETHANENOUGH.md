@@ -133,8 +133,6 @@ and parenthood.</p>
 <div class="iframe-wrapper">
 <iframe height="225" width="400" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/PCTKytjRcKs?si=IGN8rVWHgsG93DJL"></iframe>
 </div>
-<p><strong>Our honeymoon hasn't ended<br></strong>A young couple takes a
-leap of faith to bring their relationship to the next stage.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="iframe-wrapper">
@@ -147,27 +145,36 @@ leap of faith to bring their relationship to the next stage.</p>
 </div>
 </th>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Our honeymoon hasn't ended</strong>
+<br>A young couple takes a leap of faith to bring their relationship to the
+next stage.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Parenthood is a journey, not a destination</strong>
+<br>Balancing work and family isn't easy. But this father performs the ultimate
+juggling act.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>A happy parent makes a happy family</strong>
+<br>Many couples tend to neglect their passions after having a child. This
+mother refused to be part of the statistic.</p>
+</td>
+</tr>
 </tbody>
 </table>
-<p><strong>FAQs</strong>
+<p></p>
+<h2><strong>Explore Support Measures</strong></h2>
+<p>There is a full suite of Marriage and Parenthood support measures to help
+you on your journey. Click on the links below to find out more:</p>
+<p><strong><a href="https://www.madeforfamilies.gov.sg/support-measures/getting-together" rel="noopener noreferrer nofollow" target="_blank"><u>Getting Together</u></a></strong> | <strong><a href="https://www.madeforfamilies.gov.sg/support-measures/your-home-matters-new" rel="noopener noreferrer nofollow" target="_blank"><u>Your Home Matters</u></a></strong> | <strong><a href="https://www.madeforfamilies.gov.sg/support-measures/getting-baby-ready" rel="noopener noreferrer nofollow" target="_blank"><u>Getting Ready for Baby</u></a></strong> | <strong><a href="https://www.madeforfamilies.gov.sg/support-measures/raising-your-child" rel="noopener noreferrer nofollow" target="_blank"><u>Raising Your Child</u></a></strong> | <strong><a href="https://www.madeforfamilies.gov.sg/support-measures/managing-work-and-family-life" rel="noopener noreferrer nofollow" target="_blank"><u>Managing Work and Family Life</u></a></strong>
 </p>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>1. How do I apply for preschool subsidies?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>All applications for the Basic and Additional Subsidy (for childcare and
-infant care) and KiFAS (for kindergarten) should be made through your preschool
-centre. The centre will provide you with the application form.</p>
+<div class="isomer-image-wrapper">
+<img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%; width: 466.922px; height: 315.938px; object-fit: contain; object-position: center top;" height="auto" width="100%" title="Support img cropped 3" alt="Support img cropped 3" src="https://www.madeforfamilies.gov.sg/images/default-source/m-p-campaign-2023/support-img-cropped-3.png?sfvrsn=2d975215_2">
 </div>
-</details>
-<details class="isomer-details">
-<summary>2. How will I receive the subsidies?</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>The subsidies will be disbursed directly to your preschool centre. You
-will just need to pay the net fees after subsidy.</p>
-</div>
-</details>
-</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
