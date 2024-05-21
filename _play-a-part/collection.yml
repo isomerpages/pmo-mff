@@ -2,5 +2,6 @@ collections:
   play-a-part:
     output: true
     order:
+      - Citizens' Panel on Work Life Harmony.md
       - "Emerging Stronger Conversations: Building a Singapore that is Made For
         Families.md"
