@@ -41,4 +41,11 @@ sections:
           announcement: Announcement content
           link_text: ""
           link_url: ""
+  - infopic:
+      title: Building a Singapore that is Made For Families
+      id: infopic
+      description: Browse this site to know more about the suite of support measures
+        available to support marriage and parenthood.
+      image: /images/download__6_.png
+      alt: Image alt text
 ---
