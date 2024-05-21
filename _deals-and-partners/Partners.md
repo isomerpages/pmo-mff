@@ -48,5 +48,18 @@ Provider appointed by the Ministry of Manpower (MOM) and SkillsFuture Singapore
 <div class="isomer-card-link">Website</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://activeparents.myactivesg.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Active Parents SG" src="/images/003_Active_Parents_SG.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Active Parents SG</div><div class="isomer-card-description">Our children are our greatest asset and our most precious national treasure. As parents, we always wish for our children to have healthy and enjoyable lives. Parenting is a lifelong commitment and it is all parents’ desire to develop your child holistically.</div><div class="isomer-card-link">Website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.facebook.com/AnakkuSG" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Anakku SG" src="/images/004_Anakku_SG.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Anakku SG</div>
+<div class="isomer-card-description">Founded in 1973, Anakku is a Malaysian household brand that has been manufacturing
+and marketing a wide range of basic baby apparel and personal care products.</div>
+<div class="isomer-card-link">Website</div>
+</div>
+</a>
 </div>
 <p></p>
