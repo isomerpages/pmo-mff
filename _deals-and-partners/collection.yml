@@ -2,5 +2,6 @@ collections:
   deals-and-partners:
     output: true
     order:
+      - Partners/Community Partners.md
       - Partners/Car Sharing.md
       - Partners/.keep
