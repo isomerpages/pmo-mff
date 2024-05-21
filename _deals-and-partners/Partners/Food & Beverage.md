@@ -78,6 +78,6 @@ diverse epicurean tapestry since 1945.</div>
 Bukit Timah, bringing Korean BBQ nearer for families.</div>
 <div class="isomer-card-link">Website</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.noothermeaning.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NOM-Bistro &amp; Bakery" src="/images/NOM_Bistro___Bakery.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NOM-Bistro &amp; Bakery</div><div class="isomer-card-description">Nestled in a quaint neighbourhood of Macpherson, NOM has been providing a cozy hideout for families for the last 8 years. Designed with an indoor play area where parents can eat and drink while their kids play their hearts out, NOM also serves a wide variety in the kids menu.</div><div class="isomer-card-link">Website</div></div></a>
 </div>
 <p></p>
