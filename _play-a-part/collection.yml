@@ -1,0 +1,4 @@
+collections:
+  play-a-part:
+    output: true
+    order: []
