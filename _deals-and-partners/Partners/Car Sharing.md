@@ -10,18 +10,18 @@ third_nav_title: Partners
 <h3><strong>Car Sharing</strong></h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.carclub.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Car Club" src="/images/Car_Club.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Car Club</div><div class="isomer-card-description">Car Club – Singapore’s First and Original Car-Sharing provider has always been supporting and serving the transport needs of families!</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.sg-akc.com/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.drivelah.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Absolute Kinetics Consultancy" src="/images/002_Absolute_Kinetics_Consultancy.png">
+<img style="width: 100%" height="auto" width="100%" alt="Drive lah" src="/images/Drive_lah.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Absolute Kinetics Consultancy</div>
-<div class="isomer-card-description">Absolute Kinetics Consultancy (Singapore) Pte Ltd (AKC) is an Approved
-Risk Consultants &amp; Accredited Workplace Safety &amp; Health (WSH) Training
-Provider appointed by the Ministry of Manpower (MOM) and SkillsFuture Singapore
-(SSG) to provide a wide range of courses for various industries.</div>
+<div class="isomer-card-title">Drive lah</div>
+<div class="isomer-card-description">Drive lah is very much for families - most people use it for family outings
+with kids, parents. And it is the only platform where Singaporean families
+rent out their car to other Singaporean families. Quite a number of cars
+offer free child seats as well.</div>
 <div class="isomer-card-link">Website</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://activeparents.myactivesg.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Active Parents SG" src="/images/003_Active_Parents_SG.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Active Parents SG</div><div class="isomer-card-description">Our children are our greatest asset and our most precious national treasure. As parents, we always wish for our children to have healthy and enjoyable lives. Parenting is a lifelong commitment and it is all parents’ desire to develop your child holistically.</div><div class="isomer-card-link">Website</div></div></a>
