@@ -63,7 +63,20 @@ soulful indulgence of a good meal.</div>
 <div class="isomer-card-title">Kim Choo Kueh Chang</div>
 <div class="isomer-card-description">Kim Choo Kueh Chang's Nyonya rice dumplings have been a mainstay in Singapore’s
 diverse epicurean tapestry since 1945.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">Website</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/merryhaus/?igshid=YmMyMTA2M2Y=" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Merry Haus" src="/images/Merry_Haus.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Merry Haus</div><div class="isomer-card-description">Here at Merry Haus, we aim to make every family leaves our place feeling merrier than they arrived. Our Merry kids are well entertained at our playground while parents enjoy their personal time at our cafe.</div><div class="isomer-card-link">Website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.instagram.com/namibyhanjip.sg/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="NAMI Korean Grill House" src="/images/NAMI_Korean_Grill_House.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">NAMI Korean Grill House</div>
+<div class="isomer-card-description">NAMI Korean Grill House is nestled in the heartlands of Singapore in Greenwood,
+Bukit Timah, bringing Korean BBQ nearer for families.</div>
+<div class="isomer-card-link">Website</div>
 </div>
 </a>
 </div>
