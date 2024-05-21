@@ -32,9 +32,7 @@ description: Partners
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://safe.menlosecurity.com/https://aavcsingapore.webs.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/001_AAVG.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AAVC - Animal &amp; Avian Veterinary Clinic</div><div class="isomer-card-description">The veterinary clinic has been in operation since 2008, treating all dogs, cats, hamster, guinea pigs, rabbits, birds (Avian), reptiles and tortoise/turtles.
-
-At AAVC, We believe - We are one family, your pets, the animal(s) in nature &amp; our team are Made For Families! </div><div class="isomer-card-link">Website</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://safe.menlosecurity.com/https://aavcsingapore.webs.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/001_AAVG.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">AAVC - Animal &amp; Avian Veterinary Clinic</div><div class="isomer-card-description">The veterinary clinic has been in operation since 2008, treating all dogs, cats, hamster, guinea pigs, rabbits, birds (Avian), reptiles and tortoise/turtles.</div><div class="isomer-card-link">Website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
