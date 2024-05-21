@@ -1,8 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Resources
-    collection: resources
   - title: MFF
     url: /replicate-made-for-families
+  - title: Deals & Partners
+    collection: deals-and-partners
+  - title: Resources
+    collection: resources
   - title: "#MORETHANENOUGH"
     url: /morethanenough
