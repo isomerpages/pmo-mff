@@ -23,33 +23,31 @@ award winning dishes featured by SPH and many other influencers.</div>
 <div class="isomer-card-link">Website</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.thecoastalsettlement.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Coastal Settlement" src="/images/The_Coastal_Settlement.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Coastal Settlement</div><div class="isomer-card-description">The Coastal Settlement is a casual dining restaurant, café and bar, surrounded by lush trees, shrubs and green fields.</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.cm-pb.net/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://www.thecoffeeroaster.sg/family-workshop" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Contemporary Melting-Pot &amp; Bar" src="/images/Contemporary_Melting_Pot___Bar.png">
+<img style="width: 100%" height="auto" width="100%" alt="The Coffee Roaster" src="/images/The_Coffee_Roaster.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Contemporary Melting-Pot &amp; Bar</div>
-<div class="isomer-card-description">Escape the city bustle by stepping into Contemporary Melting-Pot &amp;
-Bar (CM-PB). Set in Dempsey, a short distance from the city, this place
-serves as a refuge and aims to bring people together for a laid-back dining
-experience.</div>
+<div class="isomer-card-title">The Coffee Roaster</div>
+<div class="isomer-card-description">At The Coffee Roaster, our core belief lies in bringing people together,
+which is why we wish to connect families and create a secure and nurturing
+atmosphere where children feel loved, supported and valued.</div>
 <div class="isomer-card-link">Website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.foodpanda.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="foodpanda" src="/images/foodpanda.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">foodpanda</div><div class="isomer-card-description">As the leading food delivery platform, foodpanda is dedicated to bringing customers a wide variety of food, groceries and more, quickly and conveniently.</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="http://instagram.com/genzosg" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.themarmaladepantry.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Marmalade Pantry" src="/images/The_Marmalade_Pantry.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Marmalade Pantry</div><div class="isomer-card-description">Known for its luxurious pastas, exquisite cupcakes, weekend brunches and great tea accompaniments, it offers a brief reprieve from the bustle of city life with three outlets the flagship store at ION Orchard, Oasia Hotel Novena and Oasia Hotel Downtown.</div><div class="isomer-card-link">Website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://theopenpan.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Genzo" src="/images/Genzo.png">
+<img style="width: 100%" height="auto" width="100%" alt="The Open Pan" src="/images/The_Open_Pan.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Genzo</div>
-<div class="isomer-card-description">Genzo げんぞう is a modern Japanese Omakase restaurant that strips away the
-traditions of Japanese cuisine. Creating unique and mouth-watering food
-is our happy place. We believe that everyone deserves to experience the
-soulful indulgence of a good meal.</div>
+<div class="isomer-card-title">The Open Pan</div>
+<div class="isomer-card-description">The Open Pan is a mobile app helping busy Singaporean families cook at
+home with ease. At The Open Pan we believe in bonding families and building
+relationships through food.</div>
 <div class="isomer-card-link">Website</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.hanjip.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="HANJIP Korean Grill House" src="/images/HANJIP_Korean_Grill_House.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">HANJIP Korean Grill House</div><div class="isomer-card-description">HANJIP Korean Grill House, opened in 2020 at Clark Quay offers a conducive environment for families with young children. We have a daily kids menu available and kids enjoy to eat for free during Saturday and Sunday lunch.</div><div class="isomer-card-link">Website</div></div></a>
