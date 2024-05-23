@@ -4,13 +4,10 @@ title: Made For Families
 description: Made For Families
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero Title
-      subtitle: Hero Subtitle
       background: /images/download__3_.jpg
-      button: Learn More
       url: www.google.com
       key_highlights:
         - title: "#MORETHANENOUGH"
