@@ -16,7 +16,7 @@ and requires a good foundation, commitment, effort and skills. You and
 your partner can consider joining marriage preparation programmes to deepen
 your understanding of this journey ahead. The programmes, organised by
 community groups, also provide tips on building a strong and long-lasting
-marriage. Visit <a href="https://www.madeforfamilies.gov.sg/support-measures/getting-together/marriage-preparation-programmes#" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/ffl-mff-marriageprep</u></a>&nbsp;to
+marriage. Visit <a href="https://go.gov.sg/ffl-mff-marriageprep" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/ffl-mff-marriageprep</u></a>&nbsp;to
 learn more about the marriage preparation and enrichment programmes supported
 by the Ministry of Social and Family Development.</p>
 <p>You can also check out the <a href="https://www.madeforfamilies.gov.sg/docs/default-source/default-document-library/mff-booklet-(revised-170221).pdf?sfvrsn=a513e546_3" rel="noopener noreferrer nofollow" target="_blank"><u>Marriage and Parenthood Package</u></a>&nbsp;for
