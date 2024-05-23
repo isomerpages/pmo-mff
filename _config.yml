@@ -3,7 +3,7 @@ url: https://www.madeforfamilies.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#e07800"
-  secondary-color: "#d6206b"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#49759a"
