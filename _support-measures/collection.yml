@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Your Home Matters/.keep
-      - Getting Together/Saying 'I Do'.md
       - Getting Together/.keep
-      - Getting Together/Marriage Preparation and Enrichment Programmes.md
       - Getting Together/Grow Your Social Circles.md
+      - Getting Together/Marriage Preparation and Enrichment Programmes.md
+      - Getting Together/Saying 'I Do'.md
