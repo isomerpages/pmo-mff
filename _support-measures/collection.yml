@@ -2,6 +2,7 @@ collections:
   support-measures:
     output: true
     order:
+      - Managing Work and Family Life/Government Paid Maternity Leave.md
       - Managing Work and Family Life/.keep
       - Getting Together/.keep
       - Getting Together/Grow Your Social Circles.md
