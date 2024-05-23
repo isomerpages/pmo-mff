@@ -8,18 +8,18 @@ third_nav_title: Partners
 <h2><strong>Our Partners</strong></h2>
 <h4>To date, we have around 200 partners that have come onboard the Made For Families initiative. If your organisation has products, services or programmes that are catered for families, join the Made For Families ecosystem!</h4>
 <h3><strong>Food &amp; Beverage</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.beesknees.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Bee's Knees" src="/images/Bee_s_Knees.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Bee's Knees</div><div class="isomer-card-description">Bee’s Knees is a fun, laid-back cafe &amp; bistro concept that draws inspiration from the highly social, evolved behaviour of bees.</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://brewerkz.com/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://senshi.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Senshi Sushi and Grill" src="/images/Senshi_Sushi_and_Grill.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Senshi Sushi and Grill</div><div class="isomer-card-description">SENSHI is the first contemporary Japanese à la carte buffet restaurant helmed by Veteran Chef Martin Woo and Team, located in the Central Business District (CBD) area.</div><div class="isomer-card-link">Website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://super-thai.com/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Brewerkz" src="/images/Brewerkz.png">
+<img style="width: 100%" height="auto" width="100%" alt="Super Thai" src="/images/Super_Thai.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Brewerkz</div>
-<div class="isomer-card-description">Brewerkz helped kickstart Singapore's craft beer story in 1997. We are
-a multi-award-winning business and Singapore’s longest running craft brewery
-experience.</div>
+<div class="isomer-card-title">Super Thai</div>
+<div class="isomer-card-description">Nestled in shophouses in Macpherson Garden Estate. A family oriented Thai
+restaurant with a wide range of selection for the whole family! Featuring
+award winning dishes featured by SPH and many other influencers.</div>
 <div class="isomer-card-link">Website</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://cafeiguana.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Café Iguana" src="/images/Cafe_Iguana.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Café Iguana</div><div class="isomer-card-description">Founded in 2000, Cafe Iguana serves up tasty modern Mexican dishes, zingy tequila cocktails and super-chill ambience. We’re crazy about quality. Be it tequila or tacos, we strive to deliver a great dining experience, every time.</div><div class="isomer-card-link">Website</div></div></a>
