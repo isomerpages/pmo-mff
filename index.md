@@ -7,14 +7,14 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      title: Hero Title
+      subtitle: Hero Subtitle
+      background: /images/download__3_.jpg
+      button: Learn More
+      url: www.google.com
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: "#MORETHANENOUGH"
+          description: Marriage & Parenthood Campaign
           url: https://google.com
         - title: Highlight B
           description: Important highlight B is equally important
