@@ -5,7 +5,7 @@ variant: tiptap
 description: Marriage Preparation and Enrichment Programmes
 third_nav_title: Getting Together
 ---
-<h2>Marriage Preparation and Enrichment Programmes</h2>
+<h2><strong>Marriage Preparation and Enrichment Programmes</strong></h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%;" height="auto" width="100%" title="MFF New Website Banners_Marriage" alt="MFF New Website Banners_Marriage" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/mff-new-website-banners_marriage07cd1d1fc9d642b5a5f46eaf22abf9de.png?sfvrsn=e315a03e_0&amp;MaxWidth=600&amp;MaxHeight=322&amp;ScaleUp=false&amp;Quality=High&amp;Method=ResizeFitToAreaArguments&amp;Signature=D6AF066142BFE38580B9FA43467083E41EA581A8">
