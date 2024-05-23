@@ -25,12 +25,6 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - announcements:
       title: Announcements
       id: announcements
