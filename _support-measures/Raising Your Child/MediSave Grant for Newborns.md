@@ -7,7 +7,6 @@ third_nav_title: Raising Your Child
 ---
 <h2><strong>MediSave Grant for Newborns</strong></h2>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MediSave Grant for Newborns" src="/images/MediSave_Grant_for_Newborns.png">
 </div>
@@ -74,7 +73,7 @@ Overseas Missions.</p>
 <p></p>
 <p>If your child is eligible but did not receive the grant a week after registering
 his or her birth, please write to the Central Provident Fund Board at&nbsp;
-<a href="http://cpf.gov.sg/childdashboard" rel="noopener noreferrer nofollow" target="_blank"><u>cpf.gov.sg/writetous</u>
+<a href="http://cpf.gov.sg/childdashboard" rel="noopener noreferrer nofollow" target="_blank"><u>cpf.gov.sg/writetous</u> 
 </a>.</p>
 </div>
 </details>
@@ -89,7 +88,7 @@ letter after the grant has been deposited, and may check your child’s CPF
 statement online by logging in with your Singpass at&nbsp;<a href="http://cpf.gov.sg/childdashboard" rel="noopener noreferrer nofollow" target="_blank"><u>cpf.gov.sg/childdashboard.</u><br><br>If</a> your
 child is eligible but did not receive the grant, please write to the Central
 Provident Fund Board at&nbsp;<a href="http://cpf.gov.sg/childdashboard" rel="noopener noreferrer nofollow" target="_blank"><u>cpf.gov.sg/writetous</u></a>.
-<br><em><sup>1</sup>If your child is a Singapore Citizen at birth.</em>
+<br><em><sup>1</sup>If your child is a Singapore Citizen at birth.</em> 
 <br><em><sup>2</sup>If your child is a Singapore Citizen by registration.</em>
 </p>
 </div>
@@ -139,7 +138,7 @@ more information.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You can contact the Central Provident Fund Board by writing to them at
-<a href="http://cpf.gov.sg/writetous" rel="noopener noreferrer nofollow" target="_blank"><u>cpf.gov.sg/writetous</u>
+<a href="http://cpf.gov.sg/writetous" rel="noopener noreferrer nofollow" target="_blank"><u>cpf.gov.sg/writetous</u> 
 </a>.</p>
 </div>
 </details>
