@@ -80,63 +80,6 @@ ensure the ideal quality (colour, plumbness and tenderness) to match their
 own tare (sauce).</div>
 <div class="isomer-card-link">Website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.noothermeaning.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NOM-Bistro &amp; Bakery" src="/images/NOM_Bistro___Bakery.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NOM-Bistro &amp; Bakery</div><div class="isomer-card-description">Nestled in a quaint neighbourhood of Macpherson, NOM has been providing a cozy hideout for families for the last 8 years. Designed with an indoor play area where parents can eat and drink while their kids play their hearts out, NOM also serves a wide variety in the kids menu.</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://eats.oddle.me/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Oddle Eats" src="/images/Oddle_Eats.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Oddle Eats</div>
-<div class="isomer-card-description">At Oddle, every meal matters. Oddle connects the dots by connecting food
-makers &amp; food lovers. For the food makers (the restaurants), we enable
-F&amp;B businesses to grow and manage their brands through an all-in-one
-integrated solution that is cost-effective.</div>
-<div class="isomer-card-link">Website</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.oriole.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Oriole Coffee + Bar" src="/images/Oriole_Coffee.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Oriole Coffee + Bar</div><div class="isomer-card-description">Oriole Coffee + Bar was built on three pillars - Coffee, Food and Community. Diners can expect savoury café classics and hearty global fare throughout the day, starting with delectable selections at breakfast, with all-time favourite pastas and burgers for lunch and dinner.</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.pastamania.com.sg/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Pastamania" src="/images/Pastamania.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Pastamania</div>
-<div class="isomer-card-description">PastaMania is a home-grown Halal-certified Italian casual dining chain
-that has been around for 25 years, and is loved by young and old. With
-17 outlets islandwide, this familiar household brand offers dine-in, takeaway
-and fuss-free delivery services for all your pasta and pizza cravings.</div>
-<div class="isomer-card-link">Website</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://perch.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Perch" src="/images/Perch.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Perch</div><div class="isomer-card-description">Perch is an all-day, casual dining oasis – a sanctuary amidst the bustle – to unwind, indulge and be inspired with your family. The first integrative wine-and-dine bistro developed by Singapore’s leading wine &amp; spirits retailer.</div><div class="isomer-card-link">Website</div></div></a>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Picotin Express" src="/images/Picotin_Express.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Picotin Express</div>
-<div class="isomer-card-description">Picotin Express has a relaxing view of the sea with exciting kid's menu.
-Families have been seen to bring their food from Picotin to the sea shore
-to spend their family time.</div>
-</div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.picotin.sg/picotin-fairways" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Picotin Fairways" src="/images/Picotin_Fairways.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Picotin Fairways</div><div class="isomer-card-description">Picotin Fairways is a kid-focus restaurant with kid's menu and a play area where kids can play, paint, colour and draw. Picotin Fairways also has a kid's golf range for some family time.</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.picotin.sg/picotin-katong" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Picotin Katong" src="/images/Picotin_Katong.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Picotin Katong</div>
-<div class="isomer-card-description">Picotin Katong welcomes and caters to families and children with their
-kid's menu and colouring placemat and crayons to keep kids occupied at
-the table before food is served.</div>
-<div class="isomer-card-link">Website</div>
-</div>
 </a>
 </div>
 <p></p>
