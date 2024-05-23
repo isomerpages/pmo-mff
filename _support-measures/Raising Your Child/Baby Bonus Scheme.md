@@ -134,12 +134,12 @@ after 14 February 2023.</p>
 orders, and adjusted the payout schedule to provide financial support on
 a regular basis, once every six months till the child turns six-and-a-half
 years. This way, parents can receive sustained support all the way till
-their child enters primary school.<strong><br><br>Your child is eligible for the Baby Bonus Cash Gift if:</strong>
+their child enters primary school.<strong><br><br>Your child is eligible for the Baby Bonus Cash Gift if:</strong> 
 <br>1. He or she is a Singapore Citizen; and
 <br>2. You are lawfully married to your spouse.</p>
-<p>For more information on the Baby Bonus Cash Gift, visit <a href="https://www.madeforfamilies.gov.sg/support-measures/raising-your-child/financial-support/baby-bonus-scheme#" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/bbo</u></a>
+<p>For more information on the Baby Bonus Cash Gift, visit <a href="https://go.gov.sg/bbo" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/bbo</u></a>
 </p>
-<p>Check your eligibility for the cash gift&nbsp;at <a href="https://www.madeforfamilies.gov.sg/support-measures/raising-your-child/financial-support/baby-bonus-scheme#" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.babybonus-eservices.msf.gov.sg/parent-helper</u></a>
+<p>Check your eligibility for the cash gift&nbsp;at <a href="https://www.babybonus-eservices.msf.gov.sg/parent-helper" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.babybonus-eservices.msf.gov.sg/parent-helper</u></a>
 </p>
 <table style="minWidth: 125px">
 <colgroup>
@@ -366,10 +366,10 @@ the cap is reached, or when the child turns 18 years old, whichever is
 earlier.</p>
 <p><em>*The Post-Secondary Education Account helps parents save for their children’s post-secondary education needs. Funds in the account can be used to pay for approved programmes (e.g. diploma, undergraduate programmes) in approved institutions, as well as to repay Government education loans and financial schemes. Subject to a cap, comprising the sum of the applicable CDA Government co-matching cap (based on the child’s birth order), the equivalent deposits made by parents, any ad-hoc top-ups to the CDA made by the Government, and accrued interests.</em> 
 <br>
-<br>Determine if your child is eligible for the CDA at&nbsp;<a href="https://www.madeforfamilies.gov.sg/support-measures/raising-your-child/financial-support/baby-bonus-scheme#" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.babybonus-eservices.msf.gov.sg/parent-helper<br></u><br></a><strong>Child Development Account First Step Grant and Government co-matching contribution caps</strong> 
+<br>Determine if your child is eligible for the CDA at&nbsp;<a href="https://www.babybonus-eservices.msf.gov.sg/parent-helper" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.babybonus-eservices.msf.gov.sg/parent-helper<br></u><br></a><strong>Child Development Account First Step Grant and Government co-matching contribution caps</strong> 
 <br><em>Note:&nbsp;Starting from 1 Aug 2023, all eligible children enrolled in the Baby Bonus scheme will receive the higher CDA pay-outs (CDA First Step Grant, CDA Government co-matching cap) under the enhanced Baby Bonus Scheme.&nbsp; &nbsp;&nbsp;&nbsp;</em>
 </p>
-<p><em>Refer to <a href="https://www.madeforfamilies.gov.sg/support-measures/raising-your-child/financial-support/baby-bonus-scheme#" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/bbs2023-enhanced</u></a> for more details.&nbsp;&nbsp;</em>
+<p><em>Refer to <a href="https://go.gov.sg/bbs2023-enhanced" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/bbs2023-enhanced</u></a> for more details.&nbsp;&nbsp;</em>
 </p>
 <p></p>
 <table style="minWidth: 125px">
@@ -503,11 +503,11 @@ earlier.</p>
 <summary><strong>1. Where can I find out more about the new birth registration process for my child?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>For more information, you can visit this website:&nbsp;<a href="http://go.gov.sg/lifesg-ebc" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/lifesg-ebc</u></a>
+<p>For more information, you can visit this website:&nbsp;<a href="http://go.gov.sg/lifesg-ebc" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/lifesg-ebc</u></a> 
 <br>FAQs on the new birth registration process can be found here:&nbsp;
-<a href="http://go.gov.sg/lifesg-ebc" rel="noopener noreferrer nofollow" target="_blank"><u>https://va.ecitizen.gov.sg/cfp/customerpages/ICA/explorefaq.aspx</u>
+<a href="https://va.ecitizen.gov.sg/cfp/customerpages/ICA/explorefaq.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>https://va.ecitizen.gov.sg/cfp/customerpages/ICA/explorefaq.aspx</u> 
 </a>
-<br>FAQs on LifeSG birth registration can be found here:&nbsp;<a href="http://go.gov.sg/lifesg-ebc" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.life.gov.sg/help-support/birth-registration</u></a>
+<br>FAQs on LifeSG birth registration can be found here:&nbsp;<a href="https://www.life.gov.sg/help-support/birth-registration" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.life.gov.sg/help-support/birth-registration</u></a>
 </p>
 </div>
 </details>
@@ -516,14 +516,14 @@ earlier.</p>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>You can submit your application on the LifeSG mobile application, or on
-<a href="http://go.gov.sg/bbo" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/bbo</u>
+<a href="http://go.gov.sg/bbo" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/bbo</u> 
 </a>
 <br>Before submitting your application, check your child’s eligibility at
-<a href="http://go.gov.sg/bbo" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.babybonus-eservices.msf.gov.sg/parent-helper/</u>
+<a href="https://www.babybonus-eservices.msf.gov.sg/parent-helper/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.babybonus-eservices.msf.gov.sg/parent-helper/</u> 
 </a>&nbsp;
 <br>If your child is eligible, you may proceed to apply by following these
 steps:
-<br>Step 1: Click “Join Baby Bonus” at <a href="http://go.gov.sg/bbo" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/bbo</u></a>
+<br>Step 1: Click “Join Baby Bonus” at <a href="http://go.gov.sg/bbo" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/bbo</u></a> 
 <br>Step 2:&nbsp; Log in using your SingPass.
 <br>Step 3: Complete the relevant sections in the application form.</p>
 </div>
@@ -543,7 +543,7 @@ there is no need to apply on the Baby Bonus website separately.</p>
 <p>Your child will need to obtain Singapore Citizenship by the age of 12
 to qualify for the full amount of Baby Bonus benefits. You can submit your
 application for the Baby Bonus Scheme through the LifeSG mobile application,
-or at <a rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/bbo</u></a>.</p>
+or at <a href="http://go.gov.sg/bbo" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/bbo</u></a>.</p>
 <p>If you <strong>and</strong> your spouse are not Singapore Citizens at the
 time of your child's birth, your child must obtain Singapore Citizenship
 before reaching (a) 24 months of age to be eligible for the Baby Bonus
@@ -721,8 +721,8 @@ Refer to <a href="http://go.gov.sg/bbs2023-enhanced" rel="noopener noreferrer no
 more details.&nbsp;
 <br>
 </p>
-<p>For more information on the Baby Bonus Scheme, please visit <a href="http://go.gov.sg/bbs2023-enhanced" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.babybonus.msf.gov.sg</u></a>&nbsp;or
-use 'Ask Jamie @ BB' at <a href="http://go.gov.sg/bbs2023-enhanced" rel="noopener noreferrer nofollow" target="_blank"><u>https://va.ecitizen.gov.sg/cfp/customerpages/msf/bb/explorefaq.aspx</u><br></a>
+<p>For more information on the Baby Bonus Scheme, please visit <a href="https://www.babybonus.msf.gov.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.babybonus.msf.gov.sg</u></a>&nbsp;or
+use 'Ask Jamie @ BB' at <a href="https://va.ecitizen.gov.sg/cfp/customerpages/msf/bb/explorefaq.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>https://va.ecitizen.gov.sg/cfp/customerpages/msf/bb/explorefaq.aspx</u><br></a> 
 <br>For queries, please call the MSF hotline at 1800-111-2222 (local) or 65-6253-7707
 (overseas).</p>
 </div>
@@ -736,7 +736,7 @@ Refer to <a href="https://go.gov.sg/bbs2023-enhanced" rel="noopener noreferrer n
 more details.
 <br>
 </p>
-<p>For more information on the Baby Bonus Scheme, please visit <a href="https://go.gov.sg/bbs2023-enhanced" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/bbofaq</u><br></a>
+<p>For more information on the Baby Bonus Scheme, please visit <a href="https://go.gov.sg/bbofaq" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/bbofaq</u><br></a>
 </p>
 <p>For queries, please call the MSF hotline at 1800-111-2222 (local) or 65-6253-7707
 (overseas).</p>
