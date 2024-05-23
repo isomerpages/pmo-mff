@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/download__3_.jpg
+      background: /images/download_3_v2.jpg
       url: www.google.com
       key_highlights:
         - title: "#MORETHANENOUGH"
