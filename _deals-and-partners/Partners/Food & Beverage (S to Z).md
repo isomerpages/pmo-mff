@@ -50,20 +50,22 @@ home with ease. At The Open Pan we believe in bonding families and building
 relationships through food.</div>
 <div class="isomer-card-link">Website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.hanjip.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="HANJIP Korean Grill House" src="/images/HANJIP_Korean_Grill_House.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">HANJIP Korean Grill House</div><div class="isomer-card-description">HANJIP Korean Grill House, opened in 2020 at Clark Quay offers a conducive environment for families with young children. We have a daily kids menu available and kids enjoy to eat for free during Saturday and Sunday lunch.</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.kimchoo.com/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://www.theprivegroup.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Privé Group" src="/images/The_Prive_Group.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Privé Group</div><div class="isomer-card-description">The Privé Group prides ourselves as an all-inclusive brand. Our family-friendly restaurants offer playgrounds and kids menu for children to enjoy. </div><div class="isomer-card-link">Website</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://tonito.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Kim Choo Kueh Chang" src="/images/Kim_Choo_Kueh_Chang.png">
+<img style="width: 100%" height="auto" width="100%" alt="TONITO Latin American Kitchen" src="/images/TONITO_Latin_American_Kitchen.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Kim Choo Kueh Chang</div>
-<div class="isomer-card-description">Kim Choo Kueh Chang's Nyonya rice dumplings have been a mainstay in Singapore’s
-diverse epicurean tapestry since 1945.</div>
+<div class="isomer-card-title">TONITO Latin American Kitchen</div>
+<div class="isomer-card-description">The only Latin American restaurant in the east serving family-friendly
+Latin American inspired dishes, TONITO introduces Latin American street
+food and staples the likes of Mexican quesadillas, Argentinian pastas as
+well as Peruvian stews.</div>
 <div class="isomer-card-link">Website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.instagram.com/merryhaus/?igshid=YmMyMTA2M2Y=" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Merry Haus" src="/images/Merry_Haus.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Merry Haus</div><div class="isomer-card-description">Here at Merry Haus, we aim to make every family leaves our place feeling merrier than they arrived. Our Merry kids are well entertained at our playground while parents enjoy their personal time at our cafe.</div><div class="isomer-card-link">Website</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="http://www.shangri-la.com/singapore/rasasentosaresort/dining/restaurants/trapizza/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Trapizza" src="/images/Trapizza.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trapizza</div><div class="isomer-card-description">Well-loved by families, island visitors and resort guests for more than a decade for its hearty, authentic Italian fare and relaxing seaside vibes, Trapizza is a casual Italian eatery located on Siloso Beach just a few minutes’ walk from Shangri-La Rasa Sentosa, Singapore.</div><div class="isomer-card-link">Website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.instagram.com/namibyhanjip.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
