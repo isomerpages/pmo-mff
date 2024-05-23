@@ -50,7 +50,7 @@ home with ease. At The Open Pan we believe in bonding families and building
 relationships through food.</div>
 <div class="isomer-card-link">Website</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.theprivegroup.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Privé Group" src="/images/The_Prive_Group.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Privé Group</div><div class="isomer-card-description">The Privé Group prides ourselves as an all-inclusive brand. Our family-friendly restaurants offer playgrounds and kids menu for children to enjoy. </div><div class="isomer-card-link">Website</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://www.theprivegroup.com.sg/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Privé Group" src="/images/The_Prive_Group.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Privé Group</div><div class="isomer-card-description">The Privé Group prides ourselves as an all-inclusive brand. Our family-friendly restaurants offer playgrounds and kids menu for children to enjoy.</div><div class="isomer-card-link">Website</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://tonito.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -66,16 +66,18 @@ well as Peruvian stews.</div>
 <div class="isomer-card-link">Website</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="http://www.shangri-la.com/singapore/rasasentosaresort/dining/restaurants/trapizza/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Trapizza" src="/images/Trapizza.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Trapizza</div><div class="isomer-card-description">Well-loved by families, island visitors and resort guests for more than a decade for its hearty, authentic Italian fare and relaxing seaside vibes, Trapizza is a casual Italian eatery located on Siloso Beach just a few minutes’ walk from Shangri-La Rasa Sentosa, Singapore.</div><div class="isomer-card-link">Website</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.instagram.com/namibyhanjip.sg/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="http://www.uya.sg/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="NAMI Korean Grill House" src="/images/NAMI_Korean_Grill_House.png">
+<img style="width: 100%" height="auto" width="100%" alt="Uya Japanese Unagi Restaurant" src="/images/Uya_Japanese_Unagi_Restaurant.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">NAMI Korean Grill House</div>
-<div class="isomer-card-description">NAMI Korean Grill House is nestled in the heartlands of Singapore in Greenwood,
-Bukit Timah, bringing Korean BBQ nearer for families.</div>
+<div class="isomer-card-title">Uya Japanese Unagi Restaurant</div>
+<div class="isomer-card-description">Uya aims to offer affordable and authentic Japanese traditional unagi
+cuisine to the masses in Singapore. The eels are carefully selected to
+ensure the ideal quality (colour, plumbness and tenderness) to match their
+own tare (sauce).</div>
 <div class="isomer-card-link">Website</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://www.noothermeaning.com/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="NOM-Bistro &amp; Bakery" src="/images/NOM_Bistro___Bakery.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">NOM-Bistro &amp; Bakery</div><div class="isomer-card-description">Nestled in a quaint neighbourhood of Macpherson, NOM has been providing a cozy hideout for families for the last 8 years. Designed with an indoor play area where parents can eat and drink while their kids play their hearts out, NOM also serves a wide variety in the kids menu.</div><div class="isomer-card-link">Website</div></div></a>
