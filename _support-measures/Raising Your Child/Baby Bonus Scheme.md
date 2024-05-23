@@ -373,7 +373,7 @@ the cap is reached, or when the child turns 18 years old, whichever is
 earlier.</p>
 <p><em>*The Post-Secondary Education Account helps parents save for their children’s post-secondary education needs. Funds in the account can be used to pay for approved programmes (e.g. diploma, undergraduate programmes) in approved institutions, as well as to repay Government education loans and financial schemes. Subject to a cap, comprising the sum of the applicable CDA Government co-matching cap (based on the child’s birth order), the equivalent deposits made by parents, any ad-hoc top-ups to the CDA made by the Government, and accrued interests.</em> 
 <br>
-<br>Determine if your child is eligible for the CDA at&nbsp;<a href="https://www.babybonus-eservices.msf.gov.sg/parent-helper" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.babybonus-eservices.msf.gov.sg/parent-helper</u></a>
+<br>Determine if your child is eligible for the CDA at&nbsp;<a href="https://www.babybonus-eservices.msf.gov.sg/parent-helper" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.babybonus-eservices.msf.gov.sg/parent-helper</u></a> 
 <br>
 <br><strong>Child Development Account First Step Grant and Government co-matching contribution caps</strong> 
 <br><em>Note:&nbsp;Starting from 1 Aug 2023, all eligible children enrolled in the Baby Bonus scheme will receive the higher CDA pay-outs (CDA First Step Grant, CDA Government co-matching cap) under the enhanced Baby Bonus Scheme.&nbsp; &nbsp;&nbsp;&nbsp;</em>
