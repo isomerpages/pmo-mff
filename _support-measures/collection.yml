@@ -2,15 +2,15 @@ collections:
   support-measures:
     output: true
     order:
+      - Getting Together/.keep
+      - Getting Together/Grow Your Social Circles.md
+      - Getting Together/Marriage Preparation and Enrichment Programmes.md
+      - Getting Together/Saying 'I Do'.md
+      - Your Home Matters/.keep
+      - Your Home Matters/Housing Schemes and Grants.md
       - Getting Ready for Baby/.keep
       - Getting Ready for Baby/MediSave Maternity Package.md
       - Getting Ready for Baby/MediShield Life Coverage for Delivery Related
         Complications.md
       - Getting Ready for Baby/MediSave for Assisted Conception Procedures.md
       - Getting Ready for Baby/Co Funding for Assisted Conception Procedures.md
-      - Getting Together/.keep
-      - Getting Together/Grow Your Social Circles.md
-      - Getting Together/Marriage Preparation and Enrichment Programmes.md
-      - Getting Together/Saying 'I Do'.md
-      - Your Home Matters/Housing Schemes and Grants.md
-      - Your Home Matters/.keep
