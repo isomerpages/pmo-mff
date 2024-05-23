@@ -10,7 +10,7 @@ third_nav_title: Raising Your Child
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="MediShield Life Coverage for Newborns" src="/images/MediShield_Life_Coverage_for_Newborns.png">
 </div>
-<p><strong>Protection from birth</strong>
+<p><strong>Protection from birth</strong> 
 <br>MediShield Life is a basic health insurance that helps to pay for large
 hospital bills and selected costly outpatient treatments, like dialysis
 and chemotherapy for cancer. It is sized for subsidised treatments in public
@@ -21,7 +21,7 @@ birth, all Singapore Citizen babies, including those with congenital and
 neonatal conditions, are automatically covered for life by MediShield Life.</p>
 <p><strong>Payment for MediShield Life Premiums</strong>
 <br>MediShield Life premiums may be fully paid from MediSave. Parents can
-tap on the <a href="https://www.madeforfamilies.gov.sg/support-measures/raising-your-child/healthcare/medisave-life-coverage-for-newborns" rel="noopener noreferrer nofollow" target="_blank"><u>MediSave Grant for Newborns</u></a>&nbsp;to
+tap on the <a href="https://www.madeforfamilies.gov.sg/support-measures/raising-your-child/medisave-grant-for-newborns/" rel="noopener noreferrer nofollow" target="_blank"><u>MediSave Grant for Newborns</u></a>&nbsp;to
 pay for their children’s MediShield Life premiums. Premium Subsidies are
 provided to the lower- to middle-income. If you require further support
 to pay for MediShield Life premiums even after Government subsidies, MediSave
