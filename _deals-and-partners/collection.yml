@@ -2,14 +2,14 @@ collections:
   deals-and-partners:
     output: true
     order:
-      - Partners/Retail and E Commerce.md
-      - Partners/Parenting Information.md
-      - Partners/Others.md
-      - Partners/Hospitality, Leisure and Attractions.md
-      - Partners/Healthcare.md
-      - Partners/Government Agencies.md
       - Partners/.keep
       - Partners/Car Sharing.md
       - Partners/Community Partners.md
       - Partners/Food & Beverage (A to P).md
       - Partners/Food & Beverage (S to Z).md
+      - Partners/Government Agencies.md
+      - Partners/Healthcare.md
+      - Partners/Hospitality, Leisure and Attractions.md
+      - Partners/Parenting Information.md
+      - Partners/Retail and E Commerce.md
+      - Partners/Others.md
