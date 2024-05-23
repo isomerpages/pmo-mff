@@ -10,15 +10,15 @@ third_nav_title: Raising Your Child
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Types of Preschools Available" src="/images/Types_of_Preschools_Available.png">
 </div>
-<p><strong>MOE Kindergartens (MKs) and Government-supported preschools</strong>
+<p><strong>MOE Kindergartens (MKs) and Government-supported preschools</strong> 
 <br>MOE Kindergartens are directly run by MOE and provide quality and affordable
 preschool education to Singapore Citizens and Permanent Residents aged
 5 and 6. Government-supported preschools refer to centres under the Anchor
 Operator and Partner Operator schemes. <a href="https://www.ecda.gov.sg/parents/choosing-a-preschool/aop" rel="noopener noreferrer nofollow" target="_blank"><u>Anchor Operator</u></a> and
-<a href="https://www.ecda.gov.sg/parents/choosing-a-preschool/pop" rel="noopener noreferrer nofollow" target="_blank"><u>Partner Operator</u>
+<a href="https://www.ecda.gov.sg/parents/choosing-a-preschool/pop" rel="noopener noreferrer nofollow" target="_blank"><u>Partner Operator</u> 
 </a>centres are subject to fee caps and quality requirements.</p>
 <p></p>
-<p><strong>Types of preschools</strong>
+<p><strong>Types of preschools</strong> 
 <br>(1)&nbsp;&nbsp;&nbsp; Childcare and Infant Care Centres
 <br>Infant care services cater to infants aged between two and 18 months.
 They are usually provided in childcare centres, though some centres only
@@ -34,10 +34,10 @@ four-hour K1 and K2 programmes for Singapore Citizens and Permanent Residents
 aged 5 and 6. For parents who require full-day services for their child,
 Kindergarten Care (KCare) is available at all MKs. Click to find out more
 about <a href="https://www.moe.gov.sg/mk" rel="noopener noreferrer nofollow" target="_blank"><u>MOE Kindergarten</u></a> and
-<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener noreferrer nofollow" target="_blank"><u>KCare</u>
+<a href="https://www.moe.gov.sg/preschool/moe-kindergarten/kindergarten-care" rel="noopener noreferrer nofollow" target="_blank"><u>KCare</u> 
 </a>.</p>
 <p></p>
-<p><strong>MOE Kindergarten – Early Years Centre Partnership</strong>
+<p><strong>MOE Kindergarten – Early Years Centre Partnership</strong> 
 <br>MOE partners two Anchor Operators&nbsp;– PCF Sparkletots&nbsp;and NTUC
 First Campus My First Skool&nbsp;– to provide a continuum of&nbsp;quality
 and affordable preschool education for children aged two months to six
@@ -51,7 +51,7 @@ turn five.</p>
 <p>Use&nbsp;MOE’s <a href="https://www.moe.gov.sg/schoolfinder/?journey=MOE%20Kindergarten" rel="noopener noreferrer nofollow" target="_blank"><u>SchoolFinder</u></a>&nbsp;to
 search for MOE Kindergartens near you with Early Years Centres. You can
 also search for these centres through the&nbsp;<a href="https://www.pcf.org.sg/sparkletots/our-preschools/#early-years-centres" rel="noopener noreferrer nofollow" target="_blank"><u>PCF Early Years Centre</u></a>&nbsp;and&nbsp;
-<a href="https://www.myfirstskool.com/early-years-centre" rel="noopener noreferrer nofollow" target="_blank"><u>My First Skool</u>
+<a href="https://www.myfirstskool.com/early-years-centre" rel="noopener noreferrer nofollow" target="_blank"><u>My First Skool</u> 
 </a>&nbsp;websites.</p>
 <p>
 <br>
