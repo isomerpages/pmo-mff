@@ -1,4 +1,5 @@
 collections:
   support-measures:
     output: true
-    order: []
+    order:
+      - Getting Together/.keep
