@@ -2,5 +2,6 @@ collections:
   support-measures:
     output: true
     order:
+      - Getting Together/Marriage Preparation and Enrichment Programmes.md
       - Getting Together/Grow Your Social Circles.md
       - Getting Together/.keep
