@@ -2,6 +2,7 @@ collections:
   deals-and-partners:
     output: true
     order:
+      - Partners/Government Agencies.md
       - Partners/.keep
       - Partners/Car Sharing.md
       - Partners/Community Partners.md
