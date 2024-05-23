@@ -2,9 +2,9 @@ collections:
   support-measures:
     output: true
     order:
-      - Managing Work and Family Life/Government Paid Paternity Leave.md
-      - Managing Work and Family Life/Government Paid Maternity Leave.md
       - Managing Work and Family Life/.keep
+      - Managing Work and Family Life/Government Paid Maternity Leave.md
+      - Managing Work and Family Life/Government Paid Paternity Leave.md
       - Getting Together/.keep
       - Getting Together/Grow Your Social Circles.md
       - Getting Together/Marriage Preparation and Enrichment Programmes.md
