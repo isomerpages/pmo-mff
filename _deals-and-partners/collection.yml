@@ -2,6 +2,7 @@ collections:
   deals-and-partners:
     output: true
     order:
+      - Partners/Retail and E Commerce.md
       - Partners/Parenting Information.md
       - Partners/Others.md
       - Partners/Hospitality, Leisure and Attractions.md
