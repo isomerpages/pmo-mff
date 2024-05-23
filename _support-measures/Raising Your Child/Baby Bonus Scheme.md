@@ -62,6 +62,7 @@ after 14 February 2023.</p>
 <p>1st Child</p>
 </td>
 <td rowspan="2" colspan="1">
+<p></p>
 <p><strong>$11,000 </strong>(+$3,000)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -91,6 +92,9 @@ after 14 February 2023.</p>
 <p>3rd Child</p>
 </td>
 <td rowspan="3" colspan="1">
+<p></p>
+<p></p>
+<p></p>
 <p><strong>$13,000 </strong>(+$3,000)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -276,7 +280,10 @@ their child enters primary school.<strong><br><br>Your child is eligible for the
 <p><strong>2 years until 6.5 years</strong>
 </p>
 </td>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>-</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -425,6 +432,11 @@ earlier.</p>
 </p>
 </td>
 <td rowspan="4" colspan="1">
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>$5,000 </strong>
 <br>(+$2,000)</p>
 </td>
