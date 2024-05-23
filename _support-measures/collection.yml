@@ -2,6 +2,8 @@ collections:
   support-measures:
     output: true
     order:
+      - Getting Ready for Baby/MediShield Life Coverage for Delivery Related
+        Complications.md
       - Getting Ready for Baby/MediSave Maternity Package.md
       - Getting Ready for Baby/.keep
       - Getting Together/.keep
