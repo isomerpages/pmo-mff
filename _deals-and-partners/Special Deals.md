@@ -22,7 +22,7 @@ description: Special Deals
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ARTISPIQUE | PRESERVE KIDS ARTWORK</strong>
+<p><strong>ARTISPIQUE | PRESERVE KIDS ARTWORK</strong> 
 <br>$20 OFF&nbsp;Personalised Art Book with bonus $10 Gift Voucher for your
 next order!
 <br>(Promo Code: APQMFF20)
@@ -47,7 +47,7 @@ next order!
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>AUNTY</strong>
+<p><strong>AUNTY</strong> 
 <br>$300 discount&nbsp;for parents who sign up for our confinement nanny packages
 in May.
 <br>Valid till 31 May 2024</p>
@@ -56,16 +56,14 @@ in May.
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%;" height="auto" width="288" alt="" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/babyluxe.png?sfvrsn=bf1aba45_1">
+<img style="width: 60%;" height="auto" width="288" alt="" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/babyluxe.png?sfvrsn=bf1aba45_1">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Babyluxe</strong>
-</p>
-<p><strong><a href="https://babyluxe.sg/collections/adult-kid-bath-bomb-making" rel="noopener noreferrer nofollow" target="_blank"><u>10% discount</u></a>&nbsp;for 2 x parent-kid bookings + $20 in store shopping voucher</strong>
-</p>
-<p><strong>Valid till 30 Jun 2024</strong>
-</p>
+<br><a href="https://babyluxe.sg/collections/adult-kid-bath-bomb-making" rel="noopener noreferrer nofollow" target="_blank"><u>10% discount</u></a>&nbsp;for
+2 x parent-kid bookings + $20 in store shopping voucher
+<br>Valid till 30 Jun 2024</p>
 </td>
 </tr>
 <tr>
