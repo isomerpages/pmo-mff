@@ -2,6 +2,8 @@ collections:
   resources:
     output: true
     order:
+      - Read Our Stories/Being an involved grandparent has renewed my sense of
+        purpose.md
       - Read Our Stories/.keep
       - Read Our Stories/Read Our Stories.md
       - Read Our Stories/Passing on a wealth of love and values to my three
