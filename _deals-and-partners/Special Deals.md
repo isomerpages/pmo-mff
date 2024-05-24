@@ -73,7 +73,7 @@ in May.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Baby Express</strong>
+<p><strong>Baby Express</strong> 
 <br>Additional&nbsp;<a href="https://babyexpress-sg.com/" rel="noopener noreferrer nofollow" target="_blank"><u>15% off</u></a>&nbsp;bundles
 <br>Valid till 30 Jun 2024</p>
 </td>
@@ -81,16 +81,14 @@ in May.
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%;" height="auto" width="100%" alt="" src="https://www.madeforfamilies.gov.sg/images/default-source/did-you-know/mff-website-logos_edible-garden-city.png?sfvrsn=9c9b8e7b_8">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="https://www.madeforfamilies.gov.sg/images/default-source/did-you-know/mff-website-logos_edible-garden-city.png?sfvrsn=9c9b8e7b_8">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Edible Garden City</strong>
-</p>
-<p><strong>Buy 2 tickets and get&nbsp;<a href="https://www.ediblegardencity.com/product-page/TheEGCTour" rel="noopener noreferrer nofollow" target="_blank"><u>3rd free bundle deal</u></a>&nbsp;for a guided urban farm tour</strong>
-</p>
-<p><strong>Valid till 11 May 2024</strong>
-</p>
+<br>Buy 2 tickets and get&nbsp;<a href="https://www.ediblegardencity.com/product-page/TheEGCTour" rel="noopener noreferrer nofollow" target="_blank"><u>3rd free bundle deal</u></a>&nbsp;for
+a guided urban farm tour
+<br>Valid till 11 May 2024</p>
 </td>
 </tr>
 <tr>
