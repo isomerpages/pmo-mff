@@ -314,7 +314,7 @@ per person price
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sustenir</strong>
+<p><strong>Sustenir</strong> 
 <br>1.5 hours Farm tour at&nbsp; <a href="https://s.klook.com/c/nX9e_JOqw2" rel="noopener noreferrer nofollow" target="_blank"><u>$58/pax</u></a>&nbsp;with free
 goodie bag.
 <br>Valid till 31 Dec 2024</p>
