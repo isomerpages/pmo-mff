@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Read Our Stories/Read Our Stories.md
       - Read Our Stories/.keep
       - Video and Infographics.md
       - Community Partners.md
