@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Read Our Stories/.keep
-      - Read Our Stories.md
       - Video and Infographics.md
       - Community Partners.md
       - Useful Links.md
