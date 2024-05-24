@@ -1,4 +1,4 @@
 collections:
-  mp-campaign-articles:
+  campaign-articles:
     output: true
     order: []
