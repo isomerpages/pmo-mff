@@ -2,12 +2,12 @@ collections:
   resources:
     output: true
     order:
+      - Video and Infographics.md
+      - Community Partners.md
+      - Useful Links.md
       - Read Our Stories/.keep
       - Read Our Stories/Read Our Stories.md
       - Read Our Stories/Passing on a wealth of love and values to my three
         children.md
       - Read Our Stories/Being an involved grandparent has renewed my sense of
         purpose.md
-      - Video and Infographics.md
-      - Community Partners.md
-      - Useful Links.md
