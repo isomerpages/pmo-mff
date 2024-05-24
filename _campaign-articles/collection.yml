@@ -1,5 +1,4 @@
 collections:
   campaign-articles:
     output: true
-    order:
-      - Passing on a wealth of love and values to my three children.md
+    order: []
