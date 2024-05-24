@@ -98,8 +98,8 @@ a guided urban farm tour
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Elin Dance Studio</strong>
-<br><a href="http://www.elindance.com.sg/promotions" rel="noopener noreferrer nofollow" target="_blank"><u>Discounted bundle deals + free sessions!</u></a>
+<p><strong>Elin Dance Studio</strong> 
+<br><a href="http://www.elindance.com.sg/promotions" rel="noopener noreferrer nofollow" target="_blank"><u>Discounted bundle deals + free sessions!</u></a> 
 <br>Valid till 12 May 2024</p>
 </td>
 </tr>
@@ -112,69 +112,63 @@ a guided urban farm tour
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>ANTI:DOTE</strong>
+<p><strong>ANTI:DOTE</strong> 
 <br>Mother's Day-themed High Tea
 <br>-&nbsp;<a href="https://www.fairmont-singapore.com/offer/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$68++ per person</u></a>&nbsp;(inclusive
 2 non-alcoholic beverages)
-<br>- Kids High Tea is available at&nbsp;<a href="https://www.fairmont-singapore.com/offer/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$35++ per child</u></a>
+<br>- Kids High Tea is available at&nbsp;<a href="https://www.fairmont-singapore.com/offer/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$35++ per child</u></a> 
 <br>Valid till 31 May 2024
 <br>
-<br><strong>Mikuni</strong>
+<br><strong>Mikuni</strong> 
 <br>Mikuni Mother's Day Lunch Set
 <br><a href="https://www.fairmont-singapore.com/offer/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$138++ per person</u></a>&nbsp;includes
 a glass of Sparkling Sake
 <br>Valid from 10 to 12 May 2024
 <br>
-<br><strong>Prego</strong>
-<br>Mother's Day Sharing Menu at&nbsp;&nbsp;</p>
-<p><a href="https://www.fairmont-singapore.com/offer/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$280++ Per Set</u></a>&nbsp;includes
-3-course (For 3 to 4 persons)
-<br>(Includes a Bottle of Prosecco)
+<br><strong>Prego</strong> 
+<br>Mother's Day Sharing Menu at
+<br><a href="https://www.fairmont-singapore.com/offer/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$280++ Per Set</u></a>&nbsp;includes
+3-course (For 3 to 4 persons) (Includes a Bottle of Prosecco)
 <br>Valid on 11 and 12 May 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Gallop Stable" src="/images/Gallop_Stable.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gallop Stable DTE</strong>
-</p>
-<p><strong>$45+ for one child and one parent (U.P.$ 98+)</strong>
-</p>
-<p><strong>Valid till 31 May 2024</strong>
-</p>
+<br>$45+ for one child and one parent (U.P.$ 98+)
+<br>Valid till 31 May 2024</p>
 <p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%;" height="auto" width="288" alt="Gobblin" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/gobblin.png?sfvrsn=4b976bb1_0">
+<img style="width: 80%;" height="auto" width="288" alt="Gobblin" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/gobblin.png?sfvrsn=4b976bb1_0">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Gobblin</strong>
-</p>
-<p><strong><a href="http://www.gobblin.club/" rel="noopener noreferrer nofollow" target="_blank"><u>20% off</u></a>&nbsp;storewide. Key in code MOF20 to enjoy!</strong>
-</p>
-<p><strong>Valid till 15 May 2024</strong>
-</p>
+<br><a href="http://www.gobblin.club/" rel="noopener noreferrer nofollow" target="_blank"><u>20% off</u></a>&nbsp;storewide.
+Key in code MOF20 to enjoy!
+<br>Valid till 15 May 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%;" height="auto" width="288" alt="Lilo" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/lilo.png?sfvrsn=8ed184f4_0">
+<img style="width: 60%;" height="auto" width="288" alt="Lilo" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/lilo.png?sfvrsn=8ed184f4_0">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lilo</strong>
-</p>
-<p><strong><a href="https://lilo.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>12% off</u></a>&nbsp;Sitewide</strong>
-</p>
-<p><strong>Valid for first 100 customers only</strong>
-</p>
+<br><a href="https://lilo.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>12% off</u></a>&nbsp;Sitewide
+<br>Valid for first 100 customers only</p>
 </td>
 </tr>
 <tr>
@@ -416,6 +410,4 @@ a glass of Sparkling Sake
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
+<p></p>
