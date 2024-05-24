@@ -1,0 +1,4 @@
+collections:
+  mp-campaign-articles:
+    output: true
+    order: []
