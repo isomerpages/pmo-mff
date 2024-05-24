@@ -272,7 +272,7 @@ priced items
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>RaaB Family</strong>
+<p><strong>RaaB Family</strong> 
 <br><a href="http://www.raab.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>5% off&nbsp;</u></a>&nbsp;storewide
 <br>Valid on 11 &amp; 12 May 2024</p>
 </td>
@@ -285,38 +285,32 @@ priced items
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Escape @ Science Centre</strong>
-</p>
-<p><strong><a href="https://www.science.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>$30 discount</u></a> for every 4 Tickets purchased. Moms play for free deal.</strong>
-</p>
-<p><strong>Valid till 12 May 2024</strong>
-</p>
+<br><a href="https://www.science.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>$30 discount</u></a> for
+every 4 Tickets purchased. Moms play for free deal.
+<br>Valid till 12 May 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%;" height="auto" width="288" alt="Sofitel" src="https://www.madeforfamilies.gov.sg/images/default-source/mff/partners/sofitel.png?sfvrsn=d7894f12_0">
+<img style="width: 90%;" height="auto" width="288" alt="Sofitel" src="https://www.madeforfamilies.gov.sg/images/default-source/mff/partners/sofitel.png?sfvrsn=d7894f12_0">
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sofitel Singapore Sentosa Resort &amp; Spa</strong>
-</p>
-<p><strong>Accor Plus members' privileges:&nbsp;</strong>
-</p>
-<p><strong><a href="https://shorturl.at/knHLV" rel="noopener noreferrer nofollow" target="_blank"><u>15% off</u></a>&nbsp;the adult price for Mother’s Day Brunch</strong>
-</p>
-<p><strong><a href="https://shorturl.at/knHLV" rel="noopener noreferrer nofollow" target="_blank"><u>15% off</u></a>&nbsp;the per person price</strong>
-</p>
-<p></p>
-<p><strong>Valid till 12 May 2024</strong>
-</p>
+<br>Accor Plus members' privileges:&nbsp;
+<br><a href="https://shorturl.at/knHLV" rel="noopener noreferrer nofollow" target="_blank"><u>15% off</u></a>&nbsp;the
+adult price for Mother’s Day Brunch
+<br><a href="https://shorturl.at/knHLV" rel="noopener noreferrer nofollow" target="_blank"><u>15% off</u></a>&nbsp;the
+per person price
+<br>Valid till 12 May 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%;" height="auto" width="156" alt="" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/sustenir.jpeg?sfvrsn=c3ea304f_1">
+<img style="width: 50%;" height="auto" width="156" alt="" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/sustenir.jpeg?sfvrsn=c3ea304f_1">
 </div>
 </td>
 <td rowspan="1" colspan="1">
