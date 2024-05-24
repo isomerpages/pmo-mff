@@ -9,7 +9,6 @@ description: Special Deals
 <img style="width: 100%" height="auto" width="100%" alt="Discover MFF Deals" src="/images/Discover_MFF_Deals.png">
 </div>
 <h2><strong>Made For Families Deals</strong></h2>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -23,15 +22,17 @@ description: Special Deals
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<h4>ARTISPIQUE | PRESERVE KIDS ARTWORK<br><br><a href="https://artispique.com/products/personalised-art-book" rel="noopener noreferrer nofollow" target="_blank"><u>$20 OFF</u></a>&nbsp;Personalised Art Book with bonus $10 Gift Voucher for your next order!<br>(Promo Code: APQMFF20)</h4>
-<h6>valid till 24 Jul 2024</h6>
+<p><strong>ARTISPIQUE | PRESERVE KIDS ARTWORK</strong>
+<br>$20 OFF&nbsp;Personalised Art Book with bonus $10 Gift Voucher for your
+next order!
+<br>(Promo Code: APQMFF20)
+<br>Valid till 24 Jul 2024</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<h1>Mother's Day Deals</h1>
-<p>&nbsp;</p>
+<h2><strong>Mother's Day Deals</strong></h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -41,13 +42,15 @@ description: Special Deals
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%;" height="auto" width="288" alt="aunty!" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/aunty!dcd03f172a1f4e0bb3315b7a1c404f8c.png?sfvrsn=adcf7190_0">
+<img style="width: 60%;" height="auto" width="288" alt="aunty!" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/aunty!dcd03f172a1f4e0bb3315b7a1c404f8c.png?sfvrsn=adcf7190_0">
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>AUNTY<br><br><strong><a href="http://www.aunty.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>$300 discount</u></a></strong>&nbsp;<strong>for parents who sign up for our confinement nanny packages in May.</strong></h4>
-<h6>Valid till 31 May 2024</h6>
+<p><strong>AUNTY</strong>
+<br>$300 discount&nbsp;for parents who sign up for our confinement nanny packages
+in May.
+<br>Valid till 31 May 2024</p>
 </td>
 </tr>
 <tr>
@@ -198,8 +201,8 @@ description: Special Deals
 <td rowspan="1" colspan="1">
 <p><strong>Mama's Choice</strong>
 </p>
-<p><strong>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Strengthening Hair Serum with a purchase of the Stretch Mark Complete Solution</strong>
-<br><strong>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Almond Powder Matcha flavour with a purchase of Wearable Breast Pump Set</strong>
+<p><strong>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Strengthening Hair Serum with a purchase of the Stretch Mark Complete Solution</strong> 
+<br><strong>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Almond Powder Matcha flavour with a purchase of Wearable Breast Pump Set</strong> 
 <br><strong>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Portable Baby Changing Pad with a purchase of Almond Milk Powder Bundle of 6 in Chocolate or Matcha flavours.</strong>
 </p>
 <p><strong>Valid till 14 May 2024</strong>
@@ -230,8 +233,8 @@ description: Special Deals
 <td rowspan="1" colspan="1">
 <p><strong>My Family Kaki</strong>
 </p>
-<p><strong>Celebrate this Mother's Day with a regal high tea rendezvous fit for the queen. Indulge in a lavish High Tea Session for two at Brunches Café, offered at an exclusive price of <a href="https://www.uplay.com.sg/allexperiences/detail/1611?utm_source=social&amp;utm_medium=socialmedia&amp;utm_campaign=Made_for_families_Mother_Day" rel="noopener noreferrer nofollow" target="_blank"><u>$45</u></a></strong>
-<a href="https://www.uplay.com.sg/allexperiences/detail/1611?utm_source=social&amp;utm_medium=socialmedia&amp;utm_campaign=Made_for_families_Mother_Day" rel="noopener noreferrer nofollow" target="_blank"><u>&nbsp;</u>
+<p><strong>Celebrate this Mother's Day with a regal high tea rendezvous fit for the queen. Indulge in a lavish High Tea Session for two at Brunches Café, offered at an exclusive price of <a href="https://www.uplay.com.sg/allexperiences/detail/1611?utm_source=social&amp;utm_medium=socialmedia&amp;utm_campaign=Made_for_families_Mother_Day" rel="noopener noreferrer nofollow" target="_blank"><u>$45</u></a></strong> 
+<a href="https://www.uplay.com.sg/allexperiences/detail/1611?utm_source=social&amp;utm_medium=socialmedia&amp;utm_campaign=Made_for_families_Mother_Day" rel="noopener noreferrer nofollow" target="_blank"><u>&nbsp;</u> 
 </a><strong>(Promo code: LMCAFE!)&nbsp;</strong>
 </p>
 <p><strong>Valid till 31 Aug 2024</strong>
@@ -247,7 +250,7 @@ description: Special Deals
 <td rowspan="1" colspan="1">
 <p><strong>NatureBond</strong>
 </p>
-<p><strong><a href="https://sg.naturebondglobal.com/" rel="noopener noreferrer nofollow" target="_blank"><u>20% discount</u></a></strong>&nbsp;<strong>for all products</strong>
+<p><strong><a href="https://sg.naturebondglobal.com/" rel="noopener noreferrer nofollow" target="_blank"><u>20% discount</u></a></strong>&nbsp;<strong>for all products</strong> 
 <br><strong>(Promo code:&nbsp;motherday20240512)</strong>
 </p>
 <p><strong>Valid till 31 May 2024</strong>
@@ -266,9 +269,9 @@ description: Special Deals
 <td rowspan="1" colspan="1">
 <p><strong>Nippon SG Aquaponic</strong>
 </p>
-<p><strong><a href="https://www.facebook.com/profile.php?id=100080232027319" rel="noopener noreferrer nofollow" target="_blank"><u>Aquaponic Vegetables No Pesticides</u></a></strong>
-<br><strong>- Buy 3 pkt for only $10 (@$4/pkt).</strong>
-<br><strong>- 10% discount for family package: 2pcs x 700g-800g Patin (@$18/pc) + 1kg Live Prawns $ 25/kg.</strong>
+<p><strong><a href="https://www.facebook.com/profile.php?id=100080232027319" rel="noopener noreferrer nofollow" target="_blank"><u>Aquaponic Vegetables No Pesticides</u></a></strong> 
+<br><strong>- Buy 3 pkt for only $10 (@$4/pkt).</strong> 
+<br><strong>- 10% discount for family package: 2pcs x 700g-800g Patin (@$18/pc) + 1kg Live Prawns $ 25/kg.</strong> 
 <br><strong>- Free Innovated Spinach Ice Cream with purchased Family Package.</strong>
 </p>
 <p><strong>Valid till 30 Jun 2024</strong>
