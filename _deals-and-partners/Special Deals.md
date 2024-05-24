@@ -242,7 +242,7 @@ all products
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Nippon SG Aquaponic</strong>
+<p><strong>Nippon SG Aquaponic</strong> 
 <br><a href="https://www.facebook.com/profile.php?id=100080232027319" rel="noopener noreferrer nofollow" target="_blank"><u>Aquaponic Vegetables No Pesticides</u></a> 
 <br>- Buy 3 pkt for only $10 (@$4/pkt).
 <br>- 10% discount for family package: 2pcs x 700g-800g Patin (@$18/pc) +
@@ -259,7 +259,7 @@ all products
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>OETEO</strong>
+<p><strong>OETEO</strong> 
 <br><a href="https://oeteo.co/" rel="noopener noreferrer nofollow" target="_blank"><u>20% off</u></a> regular
 priced items
 <br>Valid till 31 May 2024</p>
@@ -273,17 +273,14 @@ priced items
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>RaaB Family</strong>
-</p>
-<p><strong><a href="http://www.raab.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>5% off&nbsp;</u></a>&nbsp;storewide</strong>
-</p>
-<p><strong>Valid on 11 &amp; 12 May 2024</strong>
-</p>
+<br><a href="http://www.raab.com.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>5% off&nbsp;</u></a>&nbsp;storewide
+<br>Valid on 11 &amp; 12 May 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%;" height="auto" width="130" alt="Science Centre logo" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/science-centre-logo.png?sfvrsn=141bc09a_0">
+<img style="width: 40%;" height="auto" width="130" alt="Science Centre logo" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/science-centre-logo.png?sfvrsn=141bc09a_0">
 </div>
 </td>
 <td rowspan="1" colspan="1">
