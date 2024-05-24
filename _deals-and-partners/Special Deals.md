@@ -85,7 +85,7 @@ in May.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Edible Garden City</strong>
+<p><strong>Edible Garden City</strong> 
 <br>Buy 2 tickets and get&nbsp;<a href="https://www.ediblegardencity.com/product-page/TheEGCTour" rel="noopener noreferrer nofollow" target="_blank"><u>3rd free bundle deal</u></a>&nbsp;for
 a guided urban farm tour
 <br>Valid till 11 May 2024</p>
@@ -94,52 +94,43 @@ a guided urban farm tour
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%;" height="auto" width="288" alt="Elin Dance" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/elin-dance.png?sfvrsn=7bfbfcb7_0">
+<img style="width: 80%;" height="auto" width="288" alt="Elin Dance" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/elin-dance.png?sfvrsn=7bfbfcb7_0">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Elin Dance Studio</strong>
-</p>
-<p><strong><a href="http://www.elindance.com.sg/promotions" rel="noopener noreferrer nofollow" target="_blank"><u>Discounted bundle deals + free sessions!</u></a></strong>
-</p>
-<p><strong>Valid till 12 May 2024</strong>
-</p>
+<br><a href="http://www.elindance.com.sg/promotions" rel="noopener noreferrer nofollow" target="_blank"><u>Discounted bundle deals + free sessions!</u></a>
+<br>Valid till 12 May 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="Fairmont" src="/images/Fairmont.png">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>ANTI:DOTE</strong>
-</p>
-<p><strong>Mother's Day-themed High Tea</strong>
-</p>
-<p><strong>-&nbsp;<a href="https://www.fairmont-singapore.com/offer/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$68++ per person</u></a>&nbsp;(inclusive 2 non-alcoholic beverages)</strong>
-</p>
-<p><strong>- Kids High Tea is available at&nbsp;<a href="https://www.fairmont-singapore.com/offer/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$35++ per child</u></a></strong>
-</p>
-<p><strong>Valid till 31 May 2024</strong>
-</p>
-<p><strong>Mikuni</strong>
-</p>
-<p><strong>Mikuni Mother's Day Lunch Set</strong>
-</p>
-<p><strong><a href="https://www.fairmont-singapore.com/offer/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$138++ per person</u></a>&nbsp;includes a glass of Sparkling Sake</strong>
-</p>
-<p><strong>Valid from 10 to 12 May 2024</strong>
-</p>
-<p><strong>Prego</strong>
-</p>
-<p><strong>Mother's Day Sharing Menu at&nbsp;&nbsp;</strong>
-</p>
-<p><strong><a href="https://www.fairmont-singapore.com/offer/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$280++ Per Set</u></a>&nbsp;includes 3-course (For 3 to 4 persons)</strong>
-</p>
-<p><strong>(Includes a Bottle of Prosecco)</strong>
-</p>
-<p><strong>Valid on 11 and 12 May 2024</strong>
-</p>
+<br>Mother's Day-themed High Tea
+<br>-&nbsp;<a href="https://www.fairmont-singapore.com/offer/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$68++ per person</u></a>&nbsp;(inclusive
+2 non-alcoholic beverages)
+<br>- Kids High Tea is available at&nbsp;<a href="https://www.fairmont-singapore.com/offer/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$35++ per child</u></a>
+<br>Valid till 31 May 2024
+<br>
+<br><strong>Mikuni</strong>
+<br>Mikuni Mother's Day Lunch Set
+<br><a href="https://www.fairmont-singapore.com/offer/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$138++ per person</u></a>&nbsp;includes
+a glass of Sparkling Sake
+<br>Valid from 10 to 12 May 2024
+<br>
+<br><strong>Prego</strong>
+<br>Mother's Day Sharing Menu at&nbsp;&nbsp;</p>
+<p><a href="https://www.fairmont-singapore.com/offer/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$280++ Per Set</u></a>&nbsp;includes
+3-course (For 3 to 4 persons)
+<br>(Includes a Bottle of Prosecco)
+<br>Valid on 11 and 12 May 2024</p>
 </td>
 </tr>
 <tr>
