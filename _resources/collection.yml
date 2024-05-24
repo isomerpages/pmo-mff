@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Feedback.md
       - Video and Infographics.md
       - Community Partners.md
       - Useful Links.md
@@ -12,3 +11,4 @@ collections:
         children.md
       - Read Our Stories/Being an involved grandparent has renewed my sense of
         purpose.md
+      - Feedback.md
