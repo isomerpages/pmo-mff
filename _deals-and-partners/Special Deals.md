@@ -179,9 +179,7 @@ Key in code MOF20 to enjoy!
 <td rowspan="1" colspan="1">
 <p><strong>Mama's Choice</strong>
 </p>
-<p><strong>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Strengthening Hair Serum with a purchase of the Stretch Mark Complete Solution</strong> 
-<br><strong>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Almond Powder Matcha flavour with a purchase of Wearable Breast Pump Set</strong> 
-<br><strong>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Portable Baby Changing Pad with a purchase of Almond Milk Powder Bundle of 6 in Chocolate or Matcha flavours.</strong>
+<p><strong>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Strengthening Hair Serum with a purchase of the Stretch Mark Complete Solution <br>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Almond Powder Matcha flavour with a purchase of Wearable Breast Pump Set <br>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Portable Baby Changing Pad with a purchase of Almond Milk Powder Bundle of 6 in Chocolate or Matcha flavours.</strong>
 </p>
 <p><strong>Valid till 14 May 2024</strong>
 </p>
@@ -322,27 +320,22 @@ goodie bag.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="Swissotel" src="/images/Swissotel.png">
+</div>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Clove</strong>
-</p>
-<p><strong>- Mother's Day Buffet menu <a href="https://www.swissotel-singapore-stamford.com/offers/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$108++ per adult, $54++ per child&nbsp;</u></a>&nbsp;</strong>
-</p>
-<p><strong>Valid on 11 &amp; 12 May 2024</strong>
-</p>
-<p><strong>SKAI</strong>
-</p>
-<p><strong>SKAI Mother's Day Set Menu includes 4-course&nbsp;</strong>
-</p>
-<p><strong><a href="https://www.swissotel-singapore-stamford.com/offers/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$188++ per person</u></a></strong>
-</p>
-<p><strong>(Includes a glass of Henriot Brut Champagne)</strong>
-</p>
-<p><strong>Valid on 12 May 2024</strong>
-</p>
+<br>- Mother's Day Buffet menu <a href="https://www.swissotel-singapore-stamford.com/offers/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$108++ per adult, $54++ per child&nbsp;</u></a>&nbsp;
+<br>Valid on 11 &amp; 12 May 2024
+<br>
+<br><strong>SKAI</strong>
+<br>SKAI Mother's Day Set Menu includes 4-course&nbsp;
+<br><a href="https://www.swissotel-singapore-stamford.com/offers/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$188++ per person</u></a>
+<br>(Includes a glass of Henriot Brut Champagne)
+<br>Valid on 12 May 2024</p>
 </td>
 </tr>
 <tr>
@@ -353,42 +346,36 @@ goodie bag.
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>The Coffee Roaster Academy</strong>
-</p>
-<p><strong><a href="https://www.thecoffeeroaster.sg/service-page/mothers-day-workshop-craft-recharge" rel="noopener noreferrer nofollow" target="_blank"><u>$20 discount</u></a>&nbsp;for Mother's Day Craft &amp; Recharge Workshop</strong>
-</p>
-<p><strong>Valid till 11 May 2024</strong>
-</p>
+<br><a href="https://www.thecoffeeroaster.sg/service-page/mothers-day-workshop-craft-recharge" rel="noopener noreferrer nofollow" target="_blank"><u>$20 discount</u></a>&nbsp;for
+Mother's Day Craft &amp; Recharge Workshop
+<br>Valid till 11 May 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%;" height="auto" width="288" alt="TribeCar" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/tribecar.png?sfvrsn=f70b3c69_0">
+<img style="width: 70%;" height="auto" width="288" alt="TribeCar" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/tribecar.png?sfvrsn=f70b3c69_0">
 </div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Tribecar</strong>
-</p>
-<p><strong><a href="https://bit.ly/TCMFFamilies" rel="noopener noreferrer nofollow" target="_blank"><u>$10 off&nbsp;</u></a>&nbsp;booking (min spend of $30 booking; one-time use); Limited to only 500 redemptions</strong>
-</p>
-<h6><strong>Valid till 25 May 2024</strong></h6>
+<br><a href="https://bit.ly/TCMFFamilies" rel="noopener noreferrer nofollow" target="_blank"><u>$10 off&nbsp;</u></a>booking
+(min spend of $30 booking; one-time use); Limited to only 500 redemptions
+<br>Valid till 25 May 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%;" height="auto" width="288" alt="WODE" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/wode.png?sfvrsn=b56bf3e7_0">
+<img style="width: 80%;" height="auto" width="288" alt="WODE" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/wode.png?sfvrsn=b56bf3e7_0">
 </div>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>WODE</strong>
-</p>
-<p><strong><a href="https://www.wode.com.sg/collections" rel="noopener noreferrer nofollow" target="_blank"><u>20% off</u></a>&nbsp;Site wide, Free gift above $100</strong>
-</p>
-<p><strong>Valid till 15 May 2024</strong>
-</p>
+<br><a href="https://www.wode.com.sg/collections" rel="noopener noreferrer nofollow" target="_blank"><u>20% off</u></a>&nbsp;Site
+wide, Free gift above $100
+<br>Valid till 15 May 2024</p>
 </td>
 </tr>
 </tbody>
