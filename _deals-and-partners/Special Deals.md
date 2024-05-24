@@ -284,7 +284,7 @@ priced items
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Escape @ Science Centre</strong>
+<p><strong>Escape @ Science Centre</strong> 
 <br><a href="https://www.science.edu.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>$30 discount</u></a> for
 every 4 Tickets purchased. Moms play for free deal.
 <br>Valid till 12 May 2024</p>
@@ -298,7 +298,7 @@ every 4 Tickets purchased. Moms play for free deal.
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Sofitel Singapore Sentosa Resort &amp; Spa</strong>
+<p><strong>Sofitel Singapore Sentosa Resort &amp; Spa</strong> 
 <br>Accor Plus members' privileges:&nbsp;
 <br><a href="https://shorturl.at/knHLV" rel="noopener noreferrer nofollow" target="_blank"><u>15% off</u></a>&nbsp;the
 adult price for Mother’s Day Brunch
@@ -310,16 +310,14 @@ per person price
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="156" alt="" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/sustenir.jpeg?sfvrsn=c3ea304f_1">
+<img style="width: 40%;" height="auto" width="156" alt="" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/sustenir.jpeg?sfvrsn=c3ea304f_1">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Sustenir</strong>
-</p>
-<p><strong>1.5 hours Farm tour at&nbsp;</strong>  <a href="https://s.klook.com/c/nX9e_JOqw2" rel="noopener noreferrer nofollow" target="_blank"><u>$58/pax</u></a><strong>&nbsp;with free goodie bag.</strong>
-</p>
-<p><strong>Valid till 31 Dec 2024</strong>
-</p>
+<br>1.5 hours Farm tour at&nbsp; <a href="https://s.klook.com/c/nX9e_JOqw2" rel="noopener noreferrer nofollow" target="_blank"><u>$58/pax</u></a>&nbsp;with free
+goodie bag.
+<br>Valid till 31 Dec 2024</p>
 </td>
 </tr>
 <tr>
