@@ -13,8 +13,8 @@ sections:
         - title: "#MORETHANENOUGH"
           description: Marriage & Parenthood Campaign
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: Greater Support for Singaporeans in raising families
+          description: ""
           url: https://gmail.com
         - title: Page A
           description: Page A is important too
@@ -22,6 +22,7 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
+      variant: image
   - announcements:
       title: Announcements
       id: announcements
