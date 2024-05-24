@@ -225,7 +225,7 @@ at an exclusive price of <a href="https://www.uplay.com.sg/allexperiences/detail
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>NatureBond</strong>
+<p><strong>NatureBond</strong> 
 <br><a href="https://sg.naturebondglobal.com/" rel="noopener noreferrer nofollow" target="_blank"><u>20% discount</u></a>&nbsp;for
 all products
 <br>(Promo code:&nbsp;motherday20240512)
@@ -243,34 +243,32 @@ all products
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Nippon SG Aquaponic</strong>
-</p>
-<p><a href="https://www.facebook.com/profile.php?id=100080232027319" rel="noopener noreferrer nofollow" target="_blank"><u>Aquaponic Vegetables No Pesticides</u></a> 
+<br><a href="https://www.facebook.com/profile.php?id=100080232027319" rel="noopener noreferrer nofollow" target="_blank"><u>Aquaponic Vegetables No Pesticides</u></a> 
 <br>- Buy 3 pkt for only $10 (@$4/pkt).
 <br>- 10% discount for family package: 2pcs x 700g-800g Patin (@$18/pc) +
 1kg Live Prawns $ 25/kg.
-<br>- Free Innovated Spinach Ice Cream with purchased Family Package.</p>
-<p>Valid till 30 Jun 2024</p>
+<br>- Free Innovated Spinach Ice Cream with purchased Family Package.
+<br>Valid till 30 Jun 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%;" height="auto" width="288" alt="Oeteo Logo" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/oeteo-logo.png?sfvrsn=725eecc1_0">
+<img style="width: 60%;" height="auto" width="288" alt="Oeteo Logo" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/oeteo-logo.png?sfvrsn=725eecc1_0">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>OETEO</strong>
-</p>
-<p><strong><a href="https://oeteo.co/" rel="noopener noreferrer nofollow" target="_blank"><u>20% off</u></a> regular priced items</strong>
-</p>
-<p><strong>Valid till 31 May 2024</strong>
-</p>
+<br><a href="https://oeteo.co/" rel="noopener noreferrer nofollow" target="_blank"><u>20% off</u></a> regular
+priced items
+<br>Valid till 31 May 2024</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%;" height="auto" width="100%" alt="RaaB Family" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/raab-july.png?sfvrsn=8a44d415_0">
+<img style="width: 90%;" height="auto" width="100%" alt="RaaB Family" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/raab-july.png?sfvrsn=8a44d415_0">
 </div>
 </td>
 <td rowspan="1" colspan="1">
