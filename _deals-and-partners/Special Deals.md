@@ -60,7 +60,7 @@ in May.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Babyluxe</strong>
+<p><strong>Babyluxe</strong> 
 <br><a href="https://babyluxe.sg/collections/adult-kid-bath-bomb-making" rel="noopener noreferrer nofollow" target="_blank"><u>10% discount</u></a>&nbsp;for
 2 x parent-kid bookings + $20 in store shopping voucher
 <br>Valid till 30 Jun 2024</p>
@@ -69,16 +69,13 @@ in May.
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%;" height="auto" width="288" alt="Baby Express" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/baby-express-slogan.png?sfvrsn=83c95cdb_0">
+<img style="width: 80%;" height="auto" width="288" alt="Baby Express" src="https://www.madeforfamilies.gov.sg/images/default-source/default-album/baby-express-slogan.png?sfvrsn=83c95cdb_0">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Baby Express</strong>
-</p>
-<p><strong>Additional&nbsp;<a href="https://babyexpress-sg.com/" rel="noopener noreferrer nofollow" target="_blank"><u>15% off</u></a>&nbsp;bundles</strong>
-</p>
-<p><strong>Valid till 30 Jun 2024</strong>
-</p>
+<br>Additional&nbsp;<a href="https://babyexpress-sg.com/" rel="noopener noreferrer nofollow" target="_blank"><u>15% off</u></a>&nbsp;bundles
+<br>Valid till 30 Jun 2024</p>
 </td>
 </tr>
 <tr>
