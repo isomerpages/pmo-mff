@@ -51,10 +51,10 @@ also a children’s author, public speaker, and an upcycling advocate.</p>
 <p>So yes, even though I am currently not earning as much as my peers, I
 have no regrets as I am still able to pursue my passions while being present
 for my children.</p>
-<blockquote>
+<hr>
 <p><strong><em>“Parenting is not just about providing for your children. It is about passing on a wealth of love and values that will shape who they will become.”</em></strong>
 </p>
-</blockquote>
+<hr>
 <p>Parenting is not just about providing for your children. It is about passing
 on a wealth of love and values that will shape who they will become. It
 is about teaching them to be kind, resilient, and responsible humans.</p>
