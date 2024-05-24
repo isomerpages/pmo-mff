@@ -59,31 +59,18 @@ description: Video and Infographics
 </ul>
 <h2><strong>Infographics</strong></h2>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://www.madeforfamilies.gov.sg/docs/default-source/default-document-library/m-p-overview-infographic.jpg?sfvrsn=73a8149d_0"><img style="width: 60%;" height="auto" width="100%" alt="Overview Infographic" src="/images/Overview_Infographic.jpg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.madeforfamilies.gov.sg/docs/default-source/default-document-library/mff-greatersupport-infographic-updated-jul2023.pdf?sfvrsn=11516af7_0" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Overview Infographic" src="/images/Greater_Support_for_Singaporeans.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Greater Support for Singaporeans in starting and raising families</div><div class="isomer-card-link">Download</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Greater Support for Singaporeans" src="/images/Greater_Support_for_Singaporeans.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <p></p>
