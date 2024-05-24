@@ -4,3 +4,4 @@ permalink: /special-deals/
 variant: tiptap
 description: Special Deals
 ---
+<p></p>
