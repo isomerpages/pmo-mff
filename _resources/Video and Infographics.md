@@ -67,13 +67,13 @@ description: Video and Infographics
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="Overview Infographic" src="/images/Overview_Infographic.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.madeforfamilies.gov.sg/docs/default-source/default-document-library/m-p-overview-infographic.jpg?sfvrsn=73a8149d_0"><img style="width: 60%;" height="auto" width="100%" alt="Overview Infographic" src="/images/Overview_Infographic.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Greater Support for Singaporeans" src="/images/Greater_Support_for_Singaporeans.png">
+</div>
 </td>
 </tr>
 <tr>
