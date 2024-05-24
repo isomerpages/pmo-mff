@@ -13,15 +13,15 @@ sections:
         - title: "#MORETHANENOUGH"
           description: Marriage & Parenthood Campaign
           url: https://google.com
-        - title: Greater Support for Singaporeans in raising families
-          description: ""
+        - title: Greater Support for Singaporeans
+          description: in starting & raising families
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: Singapore Made For Families 2025
+          description: Our National Plan
+          url: www.google.com
+        - title: Parent Hub
+          description: One Stop Parenting Platform
+          url: www.google.com
       variant: image
   - announcements:
       title: Announcements
@@ -40,4 +40,22 @@ sections:
         available to support marriage and parenthood.
       image: /images/download__6_.png
       alt: Image alt text
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Card
+          description: Card description
+          linktext: Learn more
+          url: ""
 ---
