@@ -194,7 +194,7 @@ Key in code MOF20 to enjoy!
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Museum of Ice Cream Singapore</strong>
+<p><strong>Museum of Ice Cream Singapore</strong> 
 <br>Exclusive ice cream charcuterie board at&nbsp;<a href="https://tickets.museumoficecream.sg/" rel="noopener noreferrer nofollow" target="_blank"><u>$28 nett</u></a>&nbsp;at
 MOIC’s pet-friendly Dessert Bar. Each spread gets three scoops of premium
 ice cream of your choosing, six sweet toppings and a crispy, fluffy waffle
@@ -209,7 +209,7 @@ to bed your ice cream on.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>My Family Kaki</strong>
+<p><strong>My Family Kaki</strong> 
 <br>Celebrate this Mother's Day with a regal high tea rendezvous fit for the
 queen. Indulge in a lavish High Tea Session for two at Brunches Café, offered
 at an exclusive price of <a href="https://www.uplay.com.sg/allexperiences/detail/1611?utm_source=social&amp;utm_medium=socialmedia&amp;utm_campaign=Made_for_families_Mother_Day" rel="noopener noreferrer nofollow" target="_blank"><u>$45</u></a> 
@@ -226,11 +226,10 @@ at an exclusive price of <a href="https://www.uplay.com.sg/allexperiences/detail
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>NatureBond</strong>
-</p>
-<p><strong><a href="https://sg.naturebondglobal.com/" rel="noopener noreferrer nofollow" target="_blank"><u>20% discount</u></a>&nbsp;for all products <br>(Promo code:&nbsp;motherday20240512)</strong>
-</p>
-<p><strong>Valid till 31 May 2024</strong>
-</p>
+<br><a href="https://sg.naturebondglobal.com/" rel="noopener noreferrer nofollow" target="_blank"><u>20% discount</u></a>&nbsp;for
+all products
+<br>(Promo code:&nbsp;motherday20240512)
+<br>Valid till 31 May 2024</p>
 </td>
 </tr>
 <tr>
@@ -245,13 +244,12 @@ at an exclusive price of <a href="https://www.uplay.com.sg/allexperiences/detail
 <td rowspan="1" colspan="1">
 <p><strong>Nippon SG Aquaponic</strong>
 </p>
-<p><strong><a href="https://www.facebook.com/profile.php?id=100080232027319" rel="noopener noreferrer nofollow" target="_blank"><u>Aquaponic Vegetables No Pesticides</u></a></strong> 
-<br><strong>- Buy 3 pkt for only $10 (@$4/pkt).</strong> 
-<br><strong>- 10% discount for family package: 2pcs x 700g-800g Patin (@$18/pc) + 1kg Live Prawns $ 25/kg.</strong> 
-<br><strong>- Free Innovated Spinach Ice Cream with purchased Family Package.</strong>
-</p>
-<p><strong>Valid till 30 Jun 2024</strong>
-</p>
+<p><a href="https://www.facebook.com/profile.php?id=100080232027319" rel="noopener noreferrer nofollow" target="_blank"><u>Aquaponic Vegetables No Pesticides</u></a> 
+<br>- Buy 3 pkt for only $10 (@$4/pkt).
+<br>- 10% discount for family package: 2pcs x 700g-800g Patin (@$18/pc) +
+1kg Live Prawns $ 25/kg.
+<br>- Free Innovated Spinach Ice Cream with purchased Family Package.</p>
+<p>Valid till 30 Jun 2024</p>
 </td>
 </tr>
 <tr>
