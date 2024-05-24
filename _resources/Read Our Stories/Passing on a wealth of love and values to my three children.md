@@ -61,6 +61,10 @@ is about teaching them to be kind, resilient, and responsible humans.</p>
 <p>We work as a team in this household, and that means everyone pitches in,
 even the little ones. For example, we expect our children to pack their
 own school bags, get their uniforms ready, and wash their bowls after eating.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sophia_Huang_1.jpg">
+</div>
+<p></p>
 <blockquote>
 <p><strong><em>“We could have hired a full-time helper, but we chose not to because we want our children to be independent, resilient and resourceful.”</em></strong>
 </p>
@@ -90,6 +94,9 @@ for a week or two, but once the novelty wears off, the toy ends up untouched
 for months. So, I figured, why not just repurpose everyday household items
 as toys? Apart from saving money, we are also teaching our children to
 appreciate what they have and to think outside the box.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sophia_Huang_2.jpg">
+</div>
 <p>Similarly, rather than fixating solely on academic achievements, we believe
 in cultivating intrinsic motivation and a love for learning in our children.
 That is where the library comes into the picture. It is a great place to
