@@ -174,15 +174,17 @@ Key in code MOF20 to enjoy!
 <tr>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Mama's Choice</strong>
-</p>
-<p><strong>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Strengthening Hair Serum with a purchase of the Stretch Mark Complete Solution <br>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Almond Powder Matcha flavour with a purchase of Wearable Breast Pump Set <br>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Portable Baby Changing Pad with a purchase of Almond Milk Powder Bundle of 6 in Chocolate or Matcha flavours.</strong>
-</p>
-<p><strong>Valid till 14 May 2024</strong>
-</p>
+<br>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Strengthening
+Hair Serum with a purchase of the Stretch Mark Complete Solution
+<br>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Almond
+Powder Matcha flavour with a purchase of Wearable Breast Pump Set
+<br>-&nbsp;<a href="https://shopee.sg/mamaschoicesg" rel="noopener noreferrer nofollow" target="_blank"><u>Free&nbsp;</u></a>&nbsp;Portable
+Baby Changing Pad with a purchase of Almond Milk Powder Bundle of 6 in
+Chocolate or Matcha flavours.
+<br>Valid till 14 May 2024</p>
 </td>
 </tr>
 <tr>
@@ -327,13 +329,13 @@ goodie bag.
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Clove</strong>
+<p><strong>Clove</strong> 
 <br>- Mother's Day Buffet menu <a href="https://www.swissotel-singapore-stamford.com/offers/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$108++ per adult, $54++ per child&nbsp;</u></a>&nbsp;
 <br>Valid on 11 &amp; 12 May 2024
 <br>
-<br><strong>SKAI</strong>
+<br><strong>SKAI</strong> 
 <br>SKAI Mother's Day Set Menu includes 4-course&nbsp;
-<br><a href="https://www.swissotel-singapore-stamford.com/offers/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$188++ per person</u></a>
+<br><a href="https://www.swissotel-singapore-stamford.com/offers/honouring-moms-love-this-mothers-day/" rel="noopener noreferrer nofollow" target="_blank"><u>$188++ per person</u></a> 
 <br>(Includes a glass of Henriot Brut Champagne)
 <br>Valid on 12 May 2024</p>
 </td>
@@ -345,7 +347,7 @@ goodie bag.
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>The Coffee Roaster Academy</strong>
+<p><strong>The Coffee Roaster Academy</strong> 
 <br><a href="https://www.thecoffeeroaster.sg/service-page/mothers-day-workshop-craft-recharge" rel="noopener noreferrer nofollow" target="_blank"><u>$20 discount</u></a>&nbsp;for
 Mother's Day Craft &amp; Recharge Workshop
 <br>Valid till 11 May 2024</p>
@@ -359,7 +361,7 @@ Mother's Day Craft &amp; Recharge Workshop
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Tribecar</strong>
+<p><strong>Tribecar</strong> 
 <br><a href="https://bit.ly/TCMFFamilies" rel="noopener noreferrer nofollow" target="_blank"><u>$10 off&nbsp;</u></a>booking
 (min spend of $30 booking; one-time use); Limited to only 500 redemptions
 <br>Valid till 25 May 2024</p>
@@ -372,7 +374,7 @@ Mother's Day Craft &amp; Recharge Workshop
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>WODE</strong>
+<p><strong>WODE</strong> 
 <br><a href="https://www.wode.com.sg/collections" rel="noopener noreferrer nofollow" target="_blank"><u>20% off</u></a>&nbsp;Site
 wide, Free gift above $100
 <br>Valid till 15 May 2024</p>
