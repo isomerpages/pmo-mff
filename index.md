@@ -22,7 +22,7 @@ sections:
         - title: Parent Hub
           description: One Stop Parenting Platform
           url: www.google.com
-      variant: center
+      variant: image
   - announcements:
       title: Announcements
       id: announcements
