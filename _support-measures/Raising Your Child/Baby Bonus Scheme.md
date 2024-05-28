@@ -407,16 +407,13 @@ earlier.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>CDA First Step Grant&nbsp;</strong>
-</p>
-<p><strong>(A)</strong>
+<br>
+<br><strong>(A)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Maximum Government</strong>
-</p>
-<p><strong>co-matching</strong>
-</p>
-<p><strong>(B)</strong>
+<p><strong>Maximum Government co-matching </strong>
+<br><strong>(B)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
