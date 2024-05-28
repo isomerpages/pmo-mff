@@ -5,6 +5,7 @@ variant: tiptap
 description: Levy Concession for a Migrant Domestic Worker
 third_nav_title: Raising Your Child
 ---
+<h2><strong>Levy Concession for a Migrant Domestic Worker</strong></h2>
 <p>If you engage a migrant domestic worker for your household needs, you
 can qualify for a concessionary levy rate of $60 per month if you live
 with any of the following eligible person who is a Singapore citizen:
