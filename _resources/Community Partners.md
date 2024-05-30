@@ -17,13 +17,11 @@ a Singapore that is Made For Families!</p>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 <p></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Centre for Fathering" src="/images/Centre_for_Fathering.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Centre for Fathering" src="/images/Centre_for_Fathering.png">
-</div>
 <p>Centre for Fathering is a non-profit organisation founded in 2000 to promote
 active and involved fathering and address issues caused by fatherlessness
 in Singapore. The organisation aims to turn the hearts of children towards
