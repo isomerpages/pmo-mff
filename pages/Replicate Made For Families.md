@@ -19,7 +19,7 @@ description: ""
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_05_17_164508.png">
+<img style="width: 100%" height="100px" width="100%" alt="" src="/images/Screenshot_2024_05_17_164508.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
