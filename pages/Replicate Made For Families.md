@@ -23,7 +23,6 @@ description: ""
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <p>ABOUT US</p>
 </th>
 <th rowspan="1" colspan="1">
