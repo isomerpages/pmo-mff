@@ -2,6 +2,7 @@ collections:
   support-measures:
     output: true
     order:
+      - Parental Leave and Benefits/Government Paid Maternity Leave.md
       - Parental Leave and Benefits/.keep
       - Getting Together/.keep
       - Getting Together/Grow Your Social Circles.md
