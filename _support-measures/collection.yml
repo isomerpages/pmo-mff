@@ -2,8 +2,6 @@ collections:
   support-measures:
     output: true
     order:
-      - Parental Leave and Benefits/Government Paid Maternity Leave.md
-      - Parental Leave and Benefits/.keep
       - Getting Together/.keep
       - Getting Together/Grow Your Social Circles.md
       - Getting Together/Marriage Preparation and Enrichment Programmes.md
@@ -27,5 +25,7 @@ collections:
       - Raising Your Child/MediShield Life Coverage for Newborns.md
       - Raising Your Child/Free Nationally Recommended Childhood Vaccinations
         and Developmental Screenings.md
+      - Parental Leave and Benefits/.keep
+      - Parental Leave and Benefits/Government Paid Maternity Leave.md
       - Managing Work and Family Life/.keep
       - Managing Work and Family Life/Government Paid Paternity Leave.md
