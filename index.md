@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/download_3_v5.png
-      url: www.google.com
       key_highlights:
         - title: "#MORETHANENOUGH"
           description: Marriage & Parenthood Campaign
