@@ -173,8 +173,10 @@ you on your journey. Click on the links below to find out more:</p>
 <img style="box-sizing: border-box; -webkit-print-color-adjust: exact; border-style: none; max-width: 100%; width: 466.922px; height: 315.938px; object-fit: contain; object-position: center top;" height="auto" width="100%" title="Support img cropped 3" alt="Support img cropped 3" src="https://www.madeforfamilies.gov.sg/images/default-source/m-p-campaign-2023/support-img-cropped-3.png?sfvrsn=2d975215_2">
 </div>
 <p></p>
-<table style="minWidth: 125px">
+<table style="minWidth: 175px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -213,6 +215,18 @@ you on your journey. Click on the links below to find out more:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sophia_Huang_2.jpg">
 </div>
 </th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/campaignhub_masthead_img_1_2560.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/hero-banner.png">
+</div>
+<p></p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -230,8 +244,20 @@ you on your journey. Click on the links below to find out more:</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
