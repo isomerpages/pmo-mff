@@ -356,12 +356,6 @@ Practitioner clinics</p>
 <li>
 <p>Assistive technology devices</p>
 </li>
-<li>
-<p>Eye-related products and services at optical shops</p>
-</li>
-<li>
-<p>Approved healthcare items at pharmacies</p>
-</li>
 </ul>
 <p>Visit the <a href="https://www.babybonus-eservices.msf.gov.sg/ai-home/xhtml/layout/ListOfAI.faces" rel="noopener noreferrer nofollow" target="_blank"><u>Ministry of Social and Family Development’s Approved Institution webpage</u></a> for
 the full list of organisations where the CDA savings can be used at.&nbsp;</p>
